@@ -1,0 +1,7 @@
+{
+  "name": "sp500-sectors-data",
+  "private": true,
+  "scripts": {
+    "fetch": "node scripts/fetch-us500.mjs"
+  }
+}
