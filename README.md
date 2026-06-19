@@ -48,6 +48,25 @@ npm run fetch
 
 This will regenerate the JSON files under `data/`.
 
+## 🧪 Tests
+
+```bash
+npm test
+```
+
+Runs the Node built-in test runner against `buildOutputs` and `extractNextData`,
+asserting the output schema and the guard that throws when the source page shape
+changes. Tests run offline against a small, real `__NEXT_DATA__` slice in
+[`scripts/__fixtures__/next-data.json`](scripts/__fixtures__/next-data.json), so
+no network call is needed.
+
+Re-capture that fixture (a reduced slice of a live fetch) when us500.com changes
+its page structure and the parsing has been updated to match:
+
+```bash
+npm run capture-fixture
+```
+
 ## 📄 License
 
 [MIT](LICENSE)

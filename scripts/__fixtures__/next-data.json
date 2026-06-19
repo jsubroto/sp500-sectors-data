@@ -1,0 +1,60 @@
+{
+  "props": {
+    "pageProps": {
+      "sectors": {
+        "info": {
+          "labelsData": [
+            "Information Technology",
+            "Financials"
+          ],
+          "holdData": [
+            36.27,
+            12.31
+          ],
+          "colorArray": [
+            "#006D89",
+            "#5E752F"
+          ]
+        },
+        "companies": [
+          {
+            "rank": 1,
+            "name": "NVIDIA Corp",
+            "ticker": "NVDA",
+            "weight": "7.36",
+            "price": "204.65",
+            "sector": "Information Technology",
+            "industry": "Semiconductors & Semiconductor Equipment"
+          },
+          {
+            "rank": 2,
+            "name": "Apple Inc",
+            "ticker": "AAPL",
+            "weight": "6.45",
+            "price": "295.95",
+            "sector": "Information Technology",
+            "industry": "Technology Hardware, Storage & Peripherals"
+          },
+          {
+            "rank": 11,
+            "name": "Berkshire Hathaway Inc",
+            "ticker": "BRK.B",
+            "weight": "1.57",
+            "price": "491.28",
+            "sector": "Financials",
+            "industry": "Financial Services"
+          },
+          {
+            "rank": 14,
+            "name": "JPMorgan Chase & Co",
+            "ticker": "JPM",
+            "weight": "1.33",
+            "price": "333.46",
+            "sector": "Financials",
+            "industry": "Banks"
+          }
+        ]
+      }
+    }
+  }
+}

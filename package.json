@@ -2,6 +2,8 @@
   "name": "sp500-sectors-data",
   "private": true,
   "scripts": {
-    "fetch": "node scripts/fetch-us500.mjs"
+    "fetch": "node scripts/fetch-us500.mjs",
+    "capture-fixture": "node scripts/capture-fixture.mjs",
+    "test": "node --test"
   }
 }
