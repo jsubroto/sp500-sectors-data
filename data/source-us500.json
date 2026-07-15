@@ -1,15 +1,15 @@
 {
-  "asOf": "2026-07-14",
+  "asOf": "2026-07-15",
   "sectors": [
     {
       "sector": "Information Technology",
-      "total_percent": "35.79",
+      "total_percent": "36.15",
       "companies": [
         {
           "rank": 1,
           "name": "NVIDIA Corp",
           "ticker": "NVDA",
-          "weight": "7.20",
+          "weight": "7.47",
           "sector": "Information Technology",
           "industry": "Semiconductors & Semiconductor Equipment"
         },
@@ -17,7 +17,7 @@
           "rank": 2,
           "name": "Apple Inc",
           "ticker": "AAPL",
-          "weight": "6.81",
+          "weight": "6.73",
           "sector": "Information Technology",
           "industry": "Technology Hardware, Storage & Peripherals"
         },
@@ -25,7 +25,7 @@
           "rank": 3,
           "name": "Microsoft Corp",
           "ticker": "MSFT",
-          "weight": "4.24",
+          "weight": "4.16",
           "sector": "Information Technology",
           "industry": "Software"
         },
@@ -33,15 +33,15 @@
           "rank": 7,
           "name": "Broadcom Inc",
           "ticker": "AVGO",
-          "weight": "2.67",
+          "weight": "2.70",
           "sector": "Information Technology",
           "industry": "Semiconductors & Semiconductor Equipment"
         },
         {
-          "rank": 11,
+          "rank": 10,
           "name": "Micron Technology Inc",
           "ticker": "MU",
-          "weight": "1.55",
+          "weight": "1.62",
           "sector": "Information Technology",
           "industry": "Semiconductors & Semiconductor Equipment"
         },
@@ -49,7 +49,7 @@
           "rank": 15,
           "name": "Advanced Micro Devices Inc",
           "ticker": "AMD",
-          "weight": "1.27",
+          "weight": "1.30",
           "sector": "Information Technology",
           "industry": "Semiconductors & Semiconductor Equipment"
         },
@@ -57,76 +57,76 @@
           "rank": 19,
           "name": "Intel Corp",
           "ticker": "INTC",
-          "weight": "0.76",
+          "weight": "0.79",
           "sector": "Information Technology",
           "industry": "Semiconductors & Semiconductor Equipment"
         },
         {
           "rank": 21,
+          "name": "Applied Materials Inc",
+          "ticker": "AMAT",
+          "weight": "0.69",
+          "sector": "Information Technology",
+          "industry": "Semiconductors & Semiconductor Equipment"
+        },
+        {
+          "rank": 22,
           "name": "Cisco Systems Inc",
           "ticker": "CSCO",
-          "weight": "0.69",
+          "weight": "0.67",
           "sector": "Information Technology",
           "industry": "Communications Equipment"
         },
         {
-          "rank": 22,
-          "name": "Applied Materials Inc",
-          "ticker": "AMAT",
-          "weight": "0.67",
-          "sector": "Information Technology",
-          "industry": "Semiconductors & Semiconductor Equipment"
-        },
-        {
-          "rank": 26,
+          "rank": 23,
           "name": "Lam Research Corp",
           "ticker": "LRCX",
-          "weight": "0.60",
+          "weight": "0.63",
           "sector": "Information Technology",
           "industry": "Semiconductors & Semiconductor Equipment"
         },
         {
-          "rank": 29,
+          "rank": 30,
           "name": "Oracle Corp",
           "ticker": "ORCL",
-          "weight": "0.55",
+          "weight": "0.54",
           "sector": "Information Technology",
           "industry": "Software"
         },
         {
-          "rank": 36,
+          "rank": 37,
           "name": "Palantir Technologies Inc",
           "ticker": "PLTR",
-          "weight": "0.46",
+          "weight": "0.47",
           "sector": "Information Technology",
           "industry": "Software"
         },
         {
-          "rank": 40,
+          "rank": 39,
           "name": "KLA Corp",
           "ticker": "KLAC",
-          "weight": "0.42",
+          "weight": "0.44",
           "sector": "Information Technology",
           "industry": "Semiconductors & Semiconductor Equipment"
         },
         {
-          "rank": 43,
+          "rank": 41,
           "name": "Dell Technologies Inc",
           "ticker": "DELL",
-          "weight": "0.40",
+          "weight": "0.43",
           "sector": "Information Technology",
           "industry": "Technology Hardware, Storage & Peripherals"
         },
         {
-          "rank": 44,
-          "name": "International Business Machines Corp",
-          "ticker": "IBM",
-          "weight": "0.40",
+          "rank": 42,
+          "name": "Palo Alto Networks Inc",
+          "ticker": "PANW",
+          "weight": "0.42",
           "sector": "Information Technology",
-          "industry": "IT Services"
+          "industry": "Software"
         },
         {
-          "rank": 45,
+          "rank": 44,
           "name": "Texas Instruments Inc",
           "ticker": "TXN",
           "weight": "0.40",
@@ -134,28 +134,36 @@
           "industry": "Semiconductors & Semiconductor Equipment"
         },
         {
-          "rank": 46,
-          "name": "Palo Alto Networks Inc",
-          "ticker": "PANW",
-          "weight": "0.39",
-          "sector": "Information Technology",
-          "industry": "Software"
-        },
-        {
-          "rank": 49,
+          "rank": 48,
           "name": "Sandisk Corp/DE",
           "ticker": "SNDK",
-          "weight": "0.36",
+          "weight": "0.38",
           "sector": "Information Technology",
           "industry": "Technology Hardware, Storage & Peripherals"
         },
         {
-          "rank": 53,
+          "rank": 51,
           "name": "Arista Networks Inc",
           "ticker": "ANET",
           "weight": "0.33",
           "sector": "Information Technology",
           "industry": "Communications Equipment"
+        },
+        {
+          "rank": 53,
+          "name": "Crowdstrike Holdings Inc",
+          "ticker": "CRWD",
+          "weight": "0.31",
+          "sector": "Information Technology",
+          "industry": "Software"
+        },
+        {
+          "rank": 54,
+          "name": "International Business Machines Corp",
+          "ticker": "IBM",
+          "weight": "0.30",
+          "sector": "Information Technology",
+          "industry": "IT Services"
         },
         {
           "rank": 56,
@@ -169,20 +177,12 @@
           "rank": 57,
           "name": "Seagate Technology Holdings PLC",
           "ticker": "STX",
-          "weight": "0.28",
+          "weight": "0.29",
           "sector": "Information Technology",
           "industry": "Technology Hardware, Storage & Peripherals"
         },
         {
           "rank": 59,
-          "name": "QUALCOMM Inc",
-          "ticker": "QCOM",
-          "weight": "0.28",
-          "sector": "Information Technology",
-          "industry": "Semiconductors & Semiconductor Equipment"
-        },
-        {
-          "rank": 61,
           "name": "Amphenol Corp",
           "ticker": "APH",
           "weight": "0.28",
@@ -190,7 +190,7 @@
           "industry": "Electronic Equipment, Instruments & Components"
         },
         {
-          "rank": 62,
+          "rank": 60,
           "name": "Western Digital Corp",
           "ticker": "WDC",
           "weight": "0.28",
@@ -198,31 +198,31 @@
           "industry": "Technology Hardware, Storage & Peripherals"
         },
         {
-          "rank": 63,
-          "name": "Crowdstrike Holdings Inc",
-          "ticker": "CRWD",
-          "weight": "0.28",
-          "sector": "Information Technology",
-          "industry": "Software"
-        },
-        {
-          "rank": 65,
+          "rank": 62,
           "name": "Analog Devices Inc",
           "ticker": "ADI",
+          "weight": "0.28",
+          "sector": "Information Technology",
+          "industry": "Semiconductors & Semiconductor Equipment"
+        },
+        {
+          "rank": 64,
+          "name": "QUALCOMM Inc",
+          "ticker": "QCOM",
           "weight": "0.27",
           "sector": "Information Technology",
           "industry": "Semiconductors & Semiconductor Equipment"
         },
         {
-          "rank": 78,
+          "rank": 74,
           "name": "Corning Inc",
           "ticker": "GLW",
-          "weight": "0.23",
+          "weight": "0.24",
           "sector": "Information Technology",
           "industry": "Electronic Equipment, Instruments & Components"
         },
         {
-          "rank": 83,
+          "rank": 81,
           "name": "AppLovin Corp",
           "ticker": "APP",
           "weight": "0.22",
@@ -238,18 +238,18 @@
           "industry": "Software"
         },
         {
-          "rank": 103,
+          "rank": 96,
           "name": "Fortinet Inc",
           "ticker": "FTNT",
-          "weight": "0.17",
+          "weight": "0.18",
           "sector": "Information Technology",
           "industry": "Software"
         },
         {
-          "rank": 106,
+          "rank": 108,
           "name": "ServiceNow Inc",
           "ticker": "NOW",
-          "weight": "0.17",
+          "weight": "0.16",
           "sector": "Information Technology",
           "industry": "Software"
         },
@@ -262,7 +262,7 @@
           "industry": "Software"
         },
         {
-          "rank": 127,
+          "rank": 123,
           "name": "Datadog Inc",
           "ticker": "DDOG",
           "weight": "0.14",
@@ -270,7 +270,7 @@
           "industry": "Software"
         },
         {
-          "rank": 132,
+          "rank": 138,
           "name": "Adobe Inc",
           "ticker": "ADBE",
           "weight": "0.13",
@@ -278,7 +278,7 @@
           "industry": "Software"
         },
         {
-          "rank": 145,
+          "rank": 144,
           "name": "Accenture PLC",
           "ticker": "ACN",
           "weight": "0.12",
@@ -286,7 +286,7 @@
           "industry": "IT Services"
         },
         {
-          "rank": 146,
+          "rank": 147,
           "name": "Synopsys Inc",
           "ticker": "SNPS",
           "weight": "0.12",
@@ -294,15 +294,15 @@
           "industry": "Software"
         },
         {
-          "rank": 152,
+          "rank": 155,
           "name": "Intuit Inc",
           "ticker": "INTU",
-          "weight": "0.12",
+          "weight": "0.11",
           "sector": "Information Technology",
           "industry": "Software"
         },
         {
-          "rank": 176,
+          "rank": 171,
           "name": "NXP Semiconductors NV",
           "ticker": "NXPI",
           "weight": "0.10",
@@ -310,7 +310,7 @@
           "industry": "Semiconductors & Semiconductor Equipment"
         },
         {
-          "rank": 178,
+          "rank": 182,
           "name": "Motorola Solutions Inc",
           "ticker": "MSI",
           "weight": "0.10",
@@ -318,39 +318,23 @@
           "industry": "Communications Equipment"
         },
         {
-          "rank": 196,
+          "rank": 185,
           "name": "Monolithic Power Systems Inc",
           "ticker": "MPWR",
-          "weight": "0.09",
+          "weight": "0.10",
           "sector": "Information Technology",
           "industry": "Semiconductors & Semiconductor Equipment"
         },
         {
-          "rank": 197,
-          "name": "Ciena",
-          "ticker": "CIEN",
-          "weight": "0.09",
-          "sector": "Information Technology",
-          "industry": "Communications Equipment"
-        },
-        {
-          "rank": 199,
+          "rank": 189,
           "name": "Hewlett Packard Enterprise Co",
           "ticker": "HPE",
-          "weight": "0.09",
+          "weight": "0.10",
           "sector": "Information Technology",
           "industry": "Technology Hardware, Storage & Peripherals"
         },
         {
-          "rank": 204,
-          "name": "Coherent",
-          "ticker": "COHR",
-          "weight": "0.09",
-          "sector": "Information Technology",
-          "industry": "Electronic Equipment, Instruments & Components"
-        },
-        {
-          "rank": 208,
+          "rank": 197,
           "name": "Lumentum Holdings",
           "ticker": "LITE",
           "weight": "0.09",
@@ -358,15 +342,31 @@
           "industry": "Communications Equipment"
         },
         {
-          "rank": 211,
-          "name": "TE Connectivity PLC",
-          "ticker": "TEL",
-          "weight": "0.08",
+          "rank": 199,
+          "name": "Ciena",
+          "ticker": "CIEN",
+          "weight": "0.09",
+          "sector": "Information Technology",
+          "industry": "Communications Equipment"
+        },
+        {
+          "rank": 205,
+          "name": "Coherent",
+          "ticker": "COHR",
+          "weight": "0.09",
           "sector": "Information Technology",
           "industry": "Electronic Equipment, Instruments & Components"
         },
         {
-          "rank": 218,
+          "rank": 210,
+          "name": "TE Connectivity PLC",
+          "ticker": "TEL",
+          "weight": "0.09",
+          "sector": "Information Technology",
+          "industry": "Electronic Equipment, Instruments & Components"
+        },
+        {
+          "rank": 217,
           "name": "Keysight Technologies Inc",
           "ticker": "KEYS",
           "weight": "0.08",
@@ -374,7 +374,7 @@
           "industry": "Electronic Equipment, Instruments & Components"
         },
         {
-          "rank": 225,
+          "rank": 219,
           "name": "Teradyne Inc",
           "ticker": "TER",
           "weight": "0.08",
@@ -382,7 +382,7 @@
           "industry": "Semiconductors & Semiconductor Equipment"
         },
         {
-          "rank": 242,
+          "rank": 241,
           "name": "Flex",
           "ticker": "FLEX",
           "weight": "0.07",
@@ -390,7 +390,7 @@
           "industry": "Electronic Equipment, Instruments & Components"
         },
         {
-          "rank": 248,
+          "rank": 245,
           "name": "Microchip Technology Inc",
           "ticker": "MCHP",
           "weight": "0.07",
@@ -398,31 +398,15 @@
           "industry": "Semiconductors & Semiconductor Equipment"
         },
         {
-          "rank": 251,
+          "rank": 255,
           "name": "Autodesk Inc",
           "ticker": "ADSK",
-          "weight": "0.07",
+          "weight": "0.06",
           "sector": "Information Technology",
           "industry": "Software"
         },
         {
-          "rank": 283,
-          "name": "Roper Technologies Inc",
-          "ticker": "ROP",
-          "weight": "0.05",
-          "sector": "Information Technology",
-          "industry": "Software"
-        },
-        {
-          "rank": 287,
-          "name": "Workday Inc",
-          "ticker": "WDAY",
-          "weight": "0.05",
-          "sector": "Information Technology",
-          "industry": "Software"
-        },
-        {
-          "rank": 290,
+          "rank": 280,
           "name": "ON Semiconductor Corp",
           "ticker": "ON",
           "weight": "0.05",
@@ -430,7 +414,23 @@
           "industry": "Semiconductors & Semiconductor Equipment"
         },
         {
-          "rank": 297,
+          "rank": 288,
+          "name": "Roper Technologies Inc",
+          "ticker": "ROP",
+          "weight": "0.05",
+          "sector": "Information Technology",
+          "industry": "Software"
+        },
+        {
+          "rank": 292,
+          "name": "Workday Inc",
+          "ticker": "WDAY",
+          "weight": "0.05",
+          "sector": "Information Technology",
+          "industry": "Software"
+        },
+        {
+          "rank": 296,
           "name": "Jabil Inc",
           "ticker": "JBL",
           "weight": "0.05",
@@ -438,7 +438,7 @@
           "industry": "Electronic Equipment, Instruments & Components"
         },
         {
-          "rank": 300,
+          "rank": 297,
           "name": "NetApp Inc",
           "ticker": "NTAP",
           "weight": "0.05",
@@ -446,15 +446,7 @@
           "industry": "Technology Hardware, Storage & Peripherals"
         },
         {
-          "rank": 316,
-          "name": "Fair Isaac Corp",
-          "ticker": "FICO",
-          "weight": "0.04",
-          "sector": "Information Technology",
-          "industry": "Software"
-        },
-        {
-          "rank": 317,
+          "rank": 314,
           "name": "Qnity Electronics Inc",
           "ticker": "Q",
           "weight": "0.04",
@@ -462,7 +454,7 @@
           "industry": "Semiconductors & Semiconductor Equipment"
         },
         {
-          "rank": 325,
+          "rank": 321,
           "name": "Teledyne Technologies Inc",
           "ticker": "TDY",
           "weight": "0.04",
@@ -470,7 +462,15 @@
           "industry": "Electronic Equipment, Instruments & Components"
         },
         {
-          "rank": 357,
+          "rank": 329,
+          "name": "Fair Isaac Corp",
+          "ticker": "FICO",
+          "weight": "0.04",
+          "sector": "Information Technology",
+          "industry": "Software"
+        },
+        {
+          "rank": 358,
           "name": "VeriSign Inc",
           "ticker": "VRSN",
           "weight": "0.04",
@@ -478,7 +478,15 @@
           "industry": "IT Services"
         },
         {
-          "rank": 362,
+          "rank": 360,
+          "name": "F5 Inc",
+          "ticker": "FFIV",
+          "weight": "0.04",
+          "sector": "Information Technology",
+          "industry": "Communications Equipment"
+        },
+        {
+          "rank": 363,
           "name": "First Solar Inc",
           "ticker": "FSLR",
           "weight": "0.03",
@@ -486,15 +494,7 @@
           "industry": "Semiconductors & Semiconductor Equipment"
         },
         {
-          "rank": 363,
-          "name": "F5 Inc",
-          "ticker": "FFIV",
-          "weight": "0.03",
-          "sector": "Information Technology",
-          "industry": "Communications Equipment"
-        },
-        {
-          "rank": 379,
+          "rank": 378,
           "name": "HP Inc",
           "ticker": "HPQ",
           "weight": "0.03",
@@ -502,7 +502,7 @@
           "industry": "Technology Hardware, Storage & Peripherals"
         },
         {
-          "rank": 390,
+          "rank": 391,
           "name": "Cognizant Technology Solutions Corp",
           "ticker": "CTSH",
           "weight": "0.03",
@@ -510,15 +510,7 @@
           "industry": "IT Services"
         },
         {
-          "rank": 411,
-          "name": "CDW Corp/DE",
-          "ticker": "CDW",
-          "weight": "0.03",
-          "sector": "Information Technology",
-          "industry": "Electronic Equipment, Instruments & Components"
-        },
-        {
-          "rank": 413,
+          "rank": 410,
           "name": "Akamai Technologies Inc",
           "ticker": "AKAM",
           "weight": "0.03",
@@ -526,7 +518,7 @@
           "industry": "IT Services"
         },
         {
-          "rank": 415,
+          "rank": 414,
           "name": "Super Micro Computer Inc",
           "ticker": "SMCI",
           "weight": "0.03",
@@ -534,15 +526,23 @@
           "industry": "Technology Hardware, Storage & Peripherals"
         },
         {
-          "rank": 417,
+          "rank": 415,
+          "name": "CDW Corp/DE",
+          "ticker": "CDW",
+          "weight": "0.03",
+          "sector": "Information Technology",
+          "industry": "Electronic Equipment, Instruments & Components"
+        },
+        {
+          "rank": 422,
           "name": "Broadridge Financial Solutions Inc",
           "ticker": "BR",
-          "weight": "0.03",
+          "weight": "0.02",
           "sector": "Information Technology",
           "industry": "IT Services"
         },
         {
-          "rank": 431,
+          "rank": 428,
           "name": "Gen Digital Inc",
           "ticker": "GEN",
           "weight": "0.02",
@@ -550,7 +550,7 @@
           "industry": "Software"
         },
         {
-          "rank": 441,
+          "rank": 442,
           "name": "PTC Inc",
           "ticker": "PTC",
           "weight": "0.02",
@@ -558,7 +558,7 @@
           "industry": "Software"
         },
         {
-          "rank": 456,
+          "rank": 459,
           "name": "Tyler Technologies Inc",
           "ticker": "TYL",
           "weight": "0.02",
@@ -566,7 +566,7 @@
           "industry": "Software"
         },
         {
-          "rank": 458,
+          "rank": 460,
           "name": "Zebra Technologies Corp",
           "ticker": "ZBRA",
           "weight": "0.02",
@@ -575,14 +575,6 @@
         },
         {
           "rank": 464,
-          "name": "Trimble Inc",
-          "ticker": "TRMB",
-          "weight": "0.02",
-          "sector": "Information Technology",
-          "industry": "Electronic Equipment, Instruments & Components"
-        },
-        {
-          "rank": 468,
           "name": "GoDaddy Inc",
           "ticker": "GDDY",
           "weight": "0.02",
@@ -590,7 +582,15 @@
           "industry": "IT Services"
         },
         {
-          "rank": 491,
+          "rank": 465,
+          "name": "Trimble Inc",
+          "ticker": "TRMB",
+          "weight": "0.02",
+          "sector": "Information Technology",
+          "industry": "Electronic Equipment, Instruments & Components"
+        },
+        {
+          "rank": 494,
           "name": "Gartner Inc",
           "ticker": "IT",
           "weight": "0.01",
@@ -609,21 +609,21 @@
     },
     {
       "sector": "Financials",
-      "total_percent": "12.54",
+      "total_percent": "12.52",
       "companies": [
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Berkshire Hathaway Inc",
           "ticker": "BRK.B",
-          "weight": "1.57",
+          "weight": "1.54",
           "sector": "Financials",
           "industry": "Financial Services"
         },
         {
-          "rank": 14,
+          "rank": 13,
           "name": "JPMorgan Chase & Co",
           "ticker": "JPM",
-          "weight": "1.31",
+          "weight": "1.34",
           "sector": "Financials",
           "industry": "Banks"
         },
@@ -647,36 +647,36 @@
           "rank": 25,
           "name": "Bank of America Corp",
           "ticker": "BAC",
-          "weight": "0.62",
+          "weight": "0.63",
           "sector": "Financials",
           "industry": "Banks"
         },
         {
-          "rank": 33,
+          "rank": 32,
           "name": "Morgan Stanley",
           "ticker": "MS",
-          "weight": "0.51",
+          "weight": "0.52",
           "sector": "Financials",
           "industry": "Capital Markets"
         },
         {
-          "rank": 38,
+          "rank": 36,
           "name": "Goldman Sachs Group Inc/The",
           "ticker": "GS",
-          "weight": "0.45",
+          "weight": "0.49",
           "sector": "Financials",
           "industry": "Capital Markets"
         },
         {
-          "rank": 47,
+          "rank": 46,
           "name": "Wells Fargo & Co",
           "ticker": "WFC",
-          "weight": "0.39",
+          "weight": "0.38",
           "sector": "Financials",
           "industry": "Banks"
         },
         {
-          "rank": 51,
+          "rank": 49,
           "name": "American Express Co",
           "ticker": "AXP",
           "weight": "0.35",
@@ -687,7 +687,7 @@
           "rank": 52,
           "name": "Citigroup Inc",
           "ticker": "C",
-          "weight": "0.35",
+          "weight": "0.33",
           "sector": "Financials",
           "industry": "Banks"
         },
@@ -700,7 +700,7 @@
           "industry": "Capital Markets"
         },
         {
-          "rank": 76,
+          "rank": 77,
           "name": "Blackrock Inc",
           "ticker": "BLK",
           "weight": "0.23",
@@ -708,7 +708,7 @@
           "industry": "Capital Markets"
         },
         {
-          "rank": 82,
+          "rank": 80,
           "name": "Blackstone Inc",
           "ticker": "BX",
           "weight": "0.22",
@@ -716,7 +716,7 @@
           "industry": "Capital Markets"
         },
         {
-          "rank": 88,
+          "rank": 91,
           "name": "Chubb Ltd",
           "ticker": "CB",
           "weight": "0.20",
@@ -724,10 +724,10 @@
           "industry": "Insurance"
         },
         {
-          "rank": 90,
+          "rank": 93,
           "name": "Progressive Corp/The",
           "ticker": "PGR",
-          "weight": "0.20",
+          "weight": "0.19",
           "sector": "Financials",
           "industry": "Insurance"
         },
@@ -740,7 +740,7 @@
           "industry": "Capital Markets"
         },
         {
-          "rank": 96,
+          "rank": 95,
           "name": "Capital One Financial Corp",
           "ticker": "COF",
           "weight": "0.18",
@@ -748,7 +748,7 @@
           "industry": "Consumer Finance"
         },
         {
-          "rank": 112,
+          "rank": 110,
           "name": "Bank of New York Mellon Corp/The",
           "ticker": "BNY",
           "weight": "0.15",
@@ -756,7 +756,15 @@
           "industry": "Banks"
         },
         {
-          "rank": 114,
+          "rank": 112,
+          "name": "Robinhood Markets Inc",
+          "ticker": "HOOD",
+          "weight": "0.15",
+          "sector": "Financials",
+          "industry": "Capital Markets"
+        },
+        {
+          "rank": 115,
           "name": "PNC Financial Services Group Inc/The",
           "ticker": "PNC",
           "weight": "0.15",
@@ -764,15 +772,7 @@
           "industry": "Banks"
         },
         {
-          "rank": 119,
-          "name": "Robinhood Markets Inc",
-          "ticker": "HOOD",
-          "weight": "0.14",
-          "sector": "Financials",
-          "industry": "Capital Markets"
-        },
-        {
-          "rank": 120,
+          "rank": 121,
           "name": "US Bancorp",
           "ticker": "USB",
           "weight": "0.14",
@@ -780,7 +780,7 @@
           "industry": "Banks"
         },
         {
-          "rank": 134,
+          "rank": 137,
           "name": "CME Group Inc",
           "ticker": "CME",
           "weight": "0.13",
@@ -788,15 +788,7 @@
           "industry": "Capital Markets"
         },
         {
-          "rank": 137,
-          "name": "Marsh & McLennan Cos Inc",
-          "ticker": "MRSH",
-          "weight": "0.13",
-          "sector": "Financials",
-          "industry": "Insurance"
-        },
-        {
-          "rank": 138,
+          "rank": 139,
           "name": "KKR & Co Inc",
           "ticker": "KKR",
           "weight": "0.13",
@@ -804,7 +796,7 @@
           "industry": "Capital Markets"
         },
         {
-          "rank": 142,
+          "rank": 141,
           "name": "Moody's Corp",
           "ticker": "MCO",
           "weight": "0.13",
@@ -812,15 +804,15 @@
           "industry": "Capital Markets"
         },
         {
-          "rank": 154,
-          "name": "Aon PLC",
-          "ticker": "AON",
-          "weight": "0.11",
+          "rank": 142,
+          "name": "Marsh & McLennan Cos Inc",
+          "ticker": "MRSH",
+          "weight": "0.12",
           "sector": "Financials",
           "industry": "Insurance"
         },
         {
-          "rank": 156,
+          "rank": 154,
           "name": "Intercontinental Exchange Inc",
           "ticker": "ICE",
           "weight": "0.11",
@@ -828,15 +820,23 @@
           "industry": "Capital Markets"
         },
         {
-          "rank": 169,
-          "name": "Travelers Cos Inc/The",
-          "ticker": "TRV",
+          "rank": 156,
+          "name": "Aon PLC",
+          "ticker": "AON",
           "weight": "0.11",
           "sector": "Financials",
           "industry": "Insurance"
         },
         {
-          "rank": 183,
+          "rank": 172,
+          "name": "Travelers Cos Inc/The",
+          "ticker": "TRV",
+          "weight": "0.10",
+          "sector": "Financials",
+          "industry": "Insurance"
+        },
+        {
+          "rank": 179,
           "name": "Apollo Global Management Inc",
           "ticker": "APO",
           "weight": "0.10",
@@ -844,23 +844,15 @@
           "industry": "Financial Services"
         },
         {
-          "rank": 188,
+          "rank": 191,
           "name": "Arthur J Gallagher & Co",
           "ticker": "AJG",
-          "weight": "0.10",
+          "weight": "0.09",
           "sector": "Financials",
           "industry": "Insurance"
         },
         {
-          "rank": 190,
-          "name": "Allstate Corp/The",
-          "ticker": "ALL",
-          "weight": "0.10",
-          "sector": "Financials",
-          "industry": "Insurance"
-        },
-        {
-          "rank": 195,
+          "rank": 193,
           "name": "Truist Financial Corp",
           "ticker": "TFC",
           "weight": "0.09",
@@ -868,7 +860,15 @@
           "industry": "Banks"
         },
         {
-          "rank": 198,
+          "rank": 194,
+          "name": "Allstate Corp/The",
+          "ticker": "ALL",
+          "weight": "0.09",
+          "sector": "Financials",
+          "industry": "Insurance"
+        },
+        {
+          "rank": 202,
           "name": "Aflac Inc",
           "ticker": "AFL",
           "weight": "0.09",
@@ -876,7 +876,7 @@
           "industry": "Insurance"
         },
         {
-          "rank": 206,
+          "rank": 207,
           "name": "MetLife Inc",
           "ticker": "MET",
           "weight": "0.09",
@@ -884,7 +884,7 @@
           "industry": "Insurance"
         },
         {
-          "rank": 230,
+          "rank": 232,
           "name": "Fifth Third Bancorp",
           "ticker": "FITB",
           "weight": "0.08",
@@ -892,15 +892,7 @@
           "industry": "Banks"
         },
         {
-          "rank": 234,
-          "name": "Nasdaq Inc",
-          "ticker": "NDAQ",
-          "weight": "0.07",
-          "sector": "Financials",
-          "industry": "Capital Markets"
-        },
-        {
-          "rank": 238,
+          "rank": 233,
           "name": "State Street Corp",
           "ticker": "STT",
           "weight": "0.07",
@@ -908,7 +900,15 @@
           "industry": "Capital Markets"
         },
         {
-          "rank": 245,
+          "rank": 238,
+          "name": "Nasdaq Inc",
+          "ticker": "NDAQ",
+          "weight": "0.07",
+          "sector": "Financials",
+          "industry": "Capital Markets"
+        },
+        {
+          "rank": 243,
           "name": "Block Inc",
           "ticker": "XYZ",
           "weight": "0.07",
@@ -916,7 +916,7 @@
           "industry": "Financial Services"
         },
         {
-          "rank": 246,
+          "rank": 247,
           "name": "Ameriprise Financial Inc",
           "ticker": "AMP",
           "weight": "0.07",
@@ -927,12 +927,28 @@
           "rank": 250,
           "name": "MSCI Inc",
           "ticker": "MSCI",
-          "weight": "0.07",
+          "weight": "0.06",
           "sector": "Financials",
           "industry": "Capital Markets"
         },
         {
-          "rank": 260,
+          "rank": 257,
+          "name": "Interactive Brokers Group Inc",
+          "ticker": "IBKR",
+          "weight": "0.06",
+          "sector": "Financials",
+          "industry": "Capital Markets"
+        },
+        {
+          "rank": 258,
+          "name": "Coinbase Global Inc",
+          "ticker": "COIN",
+          "weight": "0.06",
+          "sector": "Financials",
+          "industry": "Capital Markets"
+        },
+        {
+          "rank": 261,
           "name": "American International Group Inc",
           "ticker": "AIG",
           "weight": "0.06",
@@ -948,22 +964,6 @@
           "industry": "Financial Services"
         },
         {
-          "rank": 263,
-          "name": "Interactive Brokers Group Inc",
-          "ticker": "IBKR",
-          "weight": "0.06",
-          "sector": "Financials",
-          "industry": "Capital Markets"
-        },
-        {
-          "rank": 264,
-          "name": "Coinbase Global Inc",
-          "ticker": "COIN",
-          "weight": "0.06",
-          "sector": "Financials",
-          "industry": "Capital Markets"
-        },
-        {
           "rank": 267,
           "name": "Prudential Financial Inc",
           "ticker": "PRU",
@@ -972,7 +972,7 @@
           "industry": "Insurance"
         },
         {
-          "rank": 273,
+          "rank": 276,
           "name": "Hartford Insurance Group Inc/The",
           "ticker": "HIG",
           "weight": "0.06",
@@ -980,7 +980,7 @@
           "industry": "Insurance"
         },
         {
-          "rank": 284,
+          "rank": 282,
           "name": "Huntington Bancshares Inc/OH",
           "ticker": "HBAN",
           "weight": "0.05",
@@ -988,7 +988,7 @@
           "industry": "Banks"
         },
         {
-          "rank": 286,
+          "rank": 285,
           "name": "Arch Capital Group Ltd",
           "ticker": "ACGL",
           "weight": "0.05",
@@ -996,7 +996,7 @@
           "industry": "Insurance"
         },
         {
-          "rank": 289,
+          "rank": 287,
           "name": "M&T Bank Corp",
           "ticker": "MTB",
           "weight": "0.05",
@@ -1004,7 +1004,7 @@
           "industry": "Banks"
         },
         {
-          "rank": 294,
+          "rank": 291,
           "name": "Northern Trust Corp",
           "ticker": "NTRS",
           "weight": "0.05",
@@ -1012,7 +1012,7 @@
           "industry": "Capital Markets"
         },
         {
-          "rank": 299,
+          "rank": 300,
           "name": "Raymond James Financial Inc",
           "ticker": "RJF",
           "weight": "0.05",
@@ -1020,7 +1020,7 @@
           "industry": "Capital Markets"
         },
         {
-          "rank": 314,
+          "rank": 312,
           "name": "Citizens Financial Group Inc",
           "ticker": "CFG",
           "weight": "0.04",
@@ -1028,7 +1028,7 @@
           "industry": "Banks"
         },
         {
-          "rank": 324,
+          "rank": 323,
           "name": "Cboe Global Markets Inc",
           "ticker": "CBOE",
           "weight": "0.04",
@@ -1036,7 +1036,7 @@
           "industry": "Capital Markets"
         },
         {
-          "rank": 330,
+          "rank": 333,
           "name": "Cincinnati Financial Corp",
           "ticker": "CINF",
           "weight": "0.04",
@@ -1044,7 +1044,7 @@
           "industry": "Insurance"
         },
         {
-          "rank": 335,
+          "rank": 336,
           "name": "Willis Towers Watson PLC",
           "ticker": "WTW",
           "weight": "0.04",
@@ -1052,23 +1052,7 @@
           "industry": "Insurance"
         },
         {
-          "rank": 338,
-          "name": "W R Berkley Corp",
-          "ticker": "WRB",
-          "weight": "0.04",
-          "sector": "Financials",
-          "industry": "Insurance"
-        },
-        {
           "rank": 339,
-          "name": "Fiserv Inc",
-          "ticker": "FISV",
-          "weight": "0.04",
-          "sector": "Financials",
-          "industry": "Financial Services"
-        },
-        {
-          "rank": 341,
           "name": "Ares Management Corp",
           "ticker": "ARES",
           "weight": "0.04",
@@ -1076,7 +1060,23 @@
           "industry": "Capital Markets"
         },
         {
+          "rank": 340,
+          "name": "W R Berkley Corp",
+          "ticker": "WRB",
+          "weight": "0.04",
+          "sector": "Financials",
+          "industry": "Insurance"
+        },
+        {
           "rank": 345,
+          "name": "Fiserv Inc",
+          "ticker": "FISV",
+          "weight": "0.04",
+          "sector": "Financials",
+          "industry": "Financial Services"
+        },
+        {
+          "rank": 346,
           "name": "Regions Financial Corp",
           "ticker": "RF",
           "weight": "0.04",
@@ -1084,7 +1084,7 @@
           "industry": "Banks"
         },
         {
-          "rank": 355,
+          "rank": 354,
           "name": "KeyCorp",
           "ticker": "KEY",
           "weight": "0.04",
@@ -1093,22 +1093,6 @@
         },
         {
           "rank": 356,
-          "name": "Synchrony Financial",
-          "ticker": "SYF",
-          "weight": "0.04",
-          "sector": "Financials",
-          "industry": "Consumer Finance"
-        },
-        {
-          "rank": 358,
-          "name": "Principal Financial Group Inc",
-          "ticker": "PFG",
-          "weight": "0.04",
-          "sector": "Financials",
-          "industry": "Insurance"
-        },
-        {
-          "rank": 359,
           "name": "T Rowe Price Group Inc",
           "ticker": "TROW",
           "weight": "0.04",
@@ -1116,15 +1100,31 @@
           "industry": "Capital Markets"
         },
         {
-          "rank": 361,
-          "name": "Loews Corp",
-          "ticker": "L",
+          "rank": 357,
+          "name": "Synchrony Financial",
+          "ticker": "SYF",
+          "weight": "0.04",
+          "sector": "Financials",
+          "industry": "Consumer Finance"
+        },
+        {
+          "rank": 359,
+          "name": "Principal Financial Group Inc",
+          "ticker": "PFG",
           "weight": "0.04",
           "sector": "Financials",
           "industry": "Insurance"
         },
         {
           "rank": 364,
+          "name": "Loews Corp",
+          "ticker": "L",
+          "weight": "0.03",
+          "sector": "Financials",
+          "industry": "Insurance"
+        },
+        {
+          "rank": 367,
           "name": "Corpay Inc",
           "ticker": "CPAY",
           "weight": "0.03",
@@ -1132,7 +1132,7 @@
           "industry": "Financial Services"
         },
         {
-          "rank": 367,
+          "rank": 369,
           "name": "Brown & Brown Inc",
           "ticker": "BRO",
           "weight": "0.03",
@@ -1140,7 +1140,7 @@
           "industry": "Insurance"
         },
         {
-          "rank": 386,
+          "rank": 388,
           "name": "Fidelity National Information Services Inc",
           "ticker": "FIS",
           "weight": "0.03",
@@ -1148,7 +1148,7 @@
           "industry": "Financial Services"
         },
         {
-          "rank": 389,
+          "rank": 390,
           "name": "Global Payments Inc",
           "ticker": "GPN",
           "weight": "0.03",
@@ -1156,15 +1156,15 @@
           "industry": "Financial Services"
         },
         {
-          "rank": 420,
+          "rank": 418,
           "name": "Franklin Resources Inc",
           "ticker": "BEN",
-          "weight": "0.02",
+          "weight": "0.03",
           "sector": "Financials",
           "industry": "Capital Markets"
         },
         {
-          "rank": 437,
+          "rank": 439,
           "name": "Everest Group Ltd",
           "ticker": "EG",
           "weight": "0.02",
@@ -1172,7 +1172,7 @@
           "industry": "Insurance"
         },
         {
-          "rank": 444,
+          "rank": 443,
           "name": "Globe Life Inc",
           "ticker": "GL",
           "weight": "0.02",
@@ -1188,6 +1188,14 @@
           "industry": "Insurance"
         },
         {
+          "rank": 456,
+          "name": "Invesco Ltd",
+          "ticker": "IVZ",
+          "weight": "0.02",
+          "sector": "Financials",
+          "industry": "Capital Markets"
+        },
+        {
           "rank": 457,
           "name": "Erie Indemnity Co",
           "ticker": "ERIE",
@@ -1196,15 +1204,7 @@
           "industry": "Insurance"
         },
         {
-          "rank": 459,
-          "name": "Invesco Ltd",
-          "ticker": "IVZ",
-          "weight": "0.02",
-          "sector": "Financials",
-          "industry": "Capital Markets"
-        },
-        {
-          "rank": 482,
+          "rank": 485,
           "name": "Jack Henry & Associates Inc",
           "ticker": "JKHY",
           "weight": "0.02",
@@ -1212,7 +1212,7 @@
           "industry": "Financial Services"
         },
         {
-          "rank": 492,
+          "rank": 491,
           "name": "FactSet Research Systems Inc",
           "ticker": "FDS",
           "weight": "0.01",
@@ -1223,13 +1223,13 @@
     },
     {
       "sector": "Communication Services",
-      "total_percent": "10.78",
+      "total_percent": "10.84",
       "companies": [
         {
           "rank": 5,
           "name": "Alphabet Inc",
           "ticker": "GOOGL",
-          "weight": "3.25",
+          "weight": "3.30",
           "sector": "Communication Services",
           "industry": "Interactive Media & Services"
         },
@@ -1237,7 +1237,7 @@
           "rank": 6,
           "name": "Alphabet Inc",
           "ticker": "GOOG",
-          "weight": "3.02",
+          "weight": "3.07",
           "sector": "Communication Services",
           "industry": "Interactive Media & Services"
         },
@@ -1250,7 +1250,7 @@
           "industry": "Interactive Media & Services"
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Netflix Inc",
           "ticker": "NFLX",
           "weight": "0.45",
@@ -1258,10 +1258,10 @@
           "industry": "Entertainment"
         },
         {
-          "rank": 54,
+          "rank": 55,
           "name": "T-Mobile US Inc",
           "ticker": "TMUS",
-          "weight": "0.30",
+          "weight": "0.29",
           "sector": "Communication Services",
           "industry": "Wireless Telecommunication Services"
         },
@@ -1274,7 +1274,7 @@
           "industry": "Diversified Telecommunication Services"
         },
         {
-          "rank": 71,
+          "rank": 72,
           "name": "Walt Disney Co/The",
           "ticker": "DIS",
           "weight": "0.24",
@@ -1282,7 +1282,7 @@
           "industry": "Entertainment"
         },
         {
-          "rank": 81,
+          "rank": 82,
           "name": "AT&T Inc",
           "ticker": "T",
           "weight": "0.22",
@@ -1290,15 +1290,15 @@
           "industry": "Diversified Telecommunication Services"
         },
         {
-          "rank": 144,
+          "rank": 143,
           "name": "Comcast Corp",
           "ticker": "CMCSA",
-          "weight": "0.13",
+          "weight": "0.12",
           "sector": "Communication Services",
           "industry": "Media"
         },
         {
-          "rank": 185,
+          "rank": 180,
           "name": "Warner Bros Discovery Inc",
           "ticker": "WBD",
           "weight": "0.10",
@@ -1314,15 +1314,15 @@
           "industry": "Entertainment"
         },
         {
-          "rank": 249,
+          "rank": 253,
           "name": "Take-Two Interactive Software Inc",
           "ticker": "TTWO",
-          "weight": "0.07",
+          "weight": "0.06",
           "sector": "Communication Services",
           "industry": "Entertainment"
         },
         {
-          "rank": 257,
+          "rank": 260,
           "name": "Live Nation Entertainment Inc",
           "ticker": "LYV",
           "weight": "0.06",
@@ -1330,7 +1330,7 @@
           "industry": "Entertainment"
         },
         {
-          "rank": 366,
+          "rank": 371,
           "name": "Omnicom Group Inc",
           "ticker": "OMC",
           "weight": "0.03",
@@ -1338,7 +1338,7 @@
           "industry": "Media"
         },
         {
-          "rank": 426,
+          "rank": 430,
           "name": "Charter Communications Inc",
           "ticker": "CHTR",
           "weight": "0.02",
@@ -1346,7 +1346,7 @@
           "industry": "Media"
         },
         {
-          "rank": 447,
+          "rank": 444,
           "name": "TKO Group Holdings Inc",
           "ticker": "TKO",
           "weight": "0.02",
@@ -1354,7 +1354,7 @@
           "industry": "Entertainment"
         },
         {
-          "rank": 478,
+          "rank": 480,
           "name": "Fox Corp",
           "ticker": "FOXA",
           "weight": "0.02",
@@ -1362,7 +1362,7 @@
           "industry": "Media"
         },
         {
-          "rank": 480,
+          "rank": 481,
           "name": "Fox Corp",
           "ticker": "FOX",
           "weight": "0.02",
@@ -1370,15 +1370,15 @@
           "industry": "Media"
         },
         {
-          "rank": 484,
+          "rank": 487,
           "name": "Paramount Skydance Corp",
           "ticker": "PSKY",
-          "weight": "0.02",
+          "weight": "0.01",
           "sector": "Communication Services",
           "industry": "Media"
         },
         {
-          "rank": 489,
+          "rank": 488,
           "name": "News Corp",
           "ticker": "NWSA",
           "weight": "0.01",
@@ -1413,13 +1413,13 @@
     },
     {
       "sector": "Consumer Discretionary",
-      "total_percent": "9.80",
+      "total_percent": "9.77",
       "companies": [
         {
           "rank": 4,
           "name": "Amazon.com Inc",
           "ticker": "AMZN",
-          "weight": "3.89",
+          "weight": "3.88",
           "sector": "Consumer Discretionary",
           "industry": "Broadline Retail"
         },
@@ -1440,7 +1440,7 @@
           "industry": "Specialty Retail"
         },
         {
-          "rank": 60,
+          "rank": 63,
           "name": "McDonald's Corp",
           "ticker": "MCD",
           "weight": "0.28",
@@ -1448,7 +1448,7 @@
           "industry": "Hotels, Restaurants & Leisure"
         },
         {
-          "rank": 72,
+          "rank": 73,
           "name": "TJX Cos Inc/The",
           "ticker": "TJX",
           "weight": "0.24",
@@ -1456,7 +1456,7 @@
           "industry": "Specialty Retail"
         },
         {
-          "rank": 91,
+          "rank": 88,
           "name": "Booking Holdings Inc",
           "ticker": "BKNG",
           "weight": "0.20",
@@ -1464,7 +1464,7 @@
           "industry": "Hotels, Restaurants & Leisure"
         },
         {
-          "rank": 97,
+          "rank": 98,
           "name": "Starbucks Corp",
           "ticker": "SBUX",
           "weight": "0.18",
@@ -1472,7 +1472,7 @@
           "industry": "Hotels, Restaurants & Leisure"
         },
         {
-          "rank": 105,
+          "rank": 104,
           "name": "Lowe's Cos Inc",
           "ticker": "LOW",
           "weight": "0.17",
@@ -1480,7 +1480,7 @@
           "industry": "Specialty Retail"
         },
         {
-          "rank": 123,
+          "rank": 125,
           "name": "Marriott International Inc/MD",
           "ticker": "MAR",
           "weight": "0.14",
@@ -1488,7 +1488,7 @@
           "industry": "Hotels, Restaurants & Leisure"
         },
         {
-          "rank": 139,
+          "rank": 140,
           "name": "Airbnb Inc",
           "ticker": "ABNB",
           "weight": "0.13",
@@ -1496,7 +1496,7 @@
           "industry": "Hotels, Restaurants & Leisure"
         },
         {
-          "rank": 147,
+          "rank": 145,
           "name": "DoorDash Inc",
           "ticker": "DASH",
           "weight": "0.12",
@@ -1504,7 +1504,7 @@
           "industry": "Hotels, Restaurants & Leisure"
         },
         {
-          "rank": 157,
+          "rank": 158,
           "name": "Royal Caribbean Cruises Ltd",
           "ticker": "RCL",
           "weight": "0.11",
@@ -1512,7 +1512,7 @@
           "industry": "Hotels, Restaurants & Leisure"
         },
         {
-          "rank": 168,
+          "rank": 163,
           "name": "Hilton Worldwide Holdings Inc",
           "ticker": "HLT",
           "weight": "0.11",
@@ -1520,10 +1520,10 @@
           "industry": "Hotels, Restaurants & Leisure"
         },
         {
-          "rank": 170,
+          "rank": 174,
           "name": "O'Reilly Automotive Inc",
           "ticker": "ORLY",
-          "weight": "0.11",
+          "weight": "0.10",
           "sector": "Consumer Discretionary",
           "industry": "Specialty Retail"
         },
@@ -1536,7 +1536,7 @@
           "industry": "Specialty Retail"
         },
         {
-          "rank": 179,
+          "rank": 178,
           "name": "General Motors Co",
           "ticker": "GM",
           "weight": "0.10",
@@ -1544,7 +1544,7 @@
           "industry": "Automobiles"
         },
         {
-          "rank": 194,
+          "rank": 196,
           "name": "NIKE Inc",
           "ticker": "NKE",
           "weight": "0.09",
@@ -1552,7 +1552,7 @@
           "industry": "Textiles, Apparel & Luxury Goods"
         },
         {
-          "rank": 217,
+          "rank": 218,
           "name": "Ford Motor Co",
           "ticker": "F",
           "weight": "0.08",
@@ -1560,39 +1560,7 @@
           "industry": "Automobiles"
         },
         {
-          "rank": 233,
-          "name": "eBay Inc",
-          "ticker": "EBAY",
-          "weight": "0.07",
-          "sector": "Consumer Discretionary",
-          "industry": "Broadline Retail"
-        },
-        {
-          "rank": 236,
-          "name": "AutoZone Inc",
-          "ticker": "AZO",
-          "weight": "0.07",
-          "sector": "Consumer Discretionary",
-          "industry": "Specialty Retail"
-        },
-        {
-          "rank": 243,
-          "name": "Chipotle Mexican Grill Inc",
-          "ticker": "CMG",
-          "weight": "0.07",
-          "sector": "Consumer Discretionary",
-          "industry": "Hotels, Restaurants & Leisure"
-        },
-        {
-          "rank": 244,
-          "name": "Garmin Ltd",
-          "ticker": "GRMN",
-          "weight": "0.07",
-          "sector": "Consumer Discretionary",
-          "industry": "Household Durables"
-        },
-        {
-          "rank": 247,
+          "rank": 234,
           "name": "Carvana Co",
           "ticker": "CVNA",
           "weight": "0.07",
@@ -1600,15 +1568,47 @@
           "industry": "Specialty Retail"
         },
         {
-          "rank": 253,
-          "name": "Yum! Brands Inc",
-          "ticker": "YUM",
+          "rank": 237,
+          "name": "eBay Inc",
+          "ticker": "EBAY",
+          "weight": "0.07",
+          "sector": "Consumer Discretionary",
+          "industry": "Broadline Retail"
+        },
+        {
+          "rank": 239,
+          "name": "AutoZone Inc",
+          "ticker": "AZO",
+          "weight": "0.07",
+          "sector": "Consumer Discretionary",
+          "industry": "Specialty Retail"
+        },
+        {
+          "rank": 246,
+          "name": "Chipotle Mexican Grill Inc",
+          "ticker": "CMG",
           "weight": "0.07",
           "sector": "Consumer Discretionary",
           "industry": "Hotels, Restaurants & Leisure"
         },
         {
-          "rank": 261,
+          "rank": 248,
+          "name": "Garmin Ltd",
+          "ticker": "GRMN",
+          "weight": "0.07",
+          "sector": "Consumer Discretionary",
+          "industry": "Household Durables"
+        },
+        {
+          "rank": 254,
+          "name": "Yum! Brands Inc",
+          "ticker": "YUM",
+          "weight": "0.06",
+          "sector": "Consumer Discretionary",
+          "industry": "Hotels, Restaurants & Leisure"
+        },
+        {
+          "rank": 259,
           "name": "DR Horton Inc",
           "ticker": "DHI",
           "weight": "0.06",
@@ -1624,7 +1624,7 @@
           "industry": "Hotels, Restaurants & Leisure"
         },
         {
-          "rank": 302,
+          "rank": 301,
           "name": "Expedia Group Inc",
           "ticker": "EXPE",
           "weight": "0.05",
@@ -1632,7 +1632,7 @@
           "industry": "Hotels, Restaurants & Leisure"
         },
         {
-          "rank": 311,
+          "rank": 313,
           "name": "Las Vegas Sands Corp",
           "ticker": "LVS",
           "weight": "0.04",
@@ -1640,7 +1640,7 @@
           "industry": "Hotels, Restaurants & Leisure"
         },
         {
-          "rank": 337,
+          "rank": 335,
           "name": "Tapestry Inc",
           "ticker": "TPR",
           "weight": "0.04",
@@ -1648,7 +1648,7 @@
           "industry": "Textiles, Apparel & Luxury Goods"
         },
         {
-          "rank": 349,
+          "rank": 347,
           "name": "Williams-Sonoma Inc",
           "ticker": "WSM",
           "weight": "0.04",
@@ -1656,7 +1656,7 @@
           "industry": "Specialty Retail"
         },
         {
-          "rank": 365,
+          "rank": 362,
           "name": "PulteGroup Inc",
           "ticker": "PHM",
           "weight": "0.03",
@@ -1664,7 +1664,7 @@
           "industry": "Household Durables"
         },
         {
-          "rank": 382,
+          "rank": 381,
           "name": "Darden Restaurants Inc",
           "ticker": "DRI",
           "weight": "0.03",
@@ -1680,7 +1680,7 @@
           "industry": "Textiles, Apparel & Luxury Goods"
         },
         {
-          "rank": 395,
+          "rank": 394,
           "name": "Ulta Beauty Inc",
           "ticker": "ULTA",
           "weight": "0.03",
@@ -1688,7 +1688,7 @@
           "industry": "Specialty Retail"
         },
         {
-          "rank": 397,
+          "rank": 395,
           "name": "Lennar Corp",
           "ticker": "LEN",
           "weight": "0.03",
@@ -1696,15 +1696,7 @@
           "industry": "Household Durables"
         },
         {
-          "rank": 418,
-          "name": "NVR Inc",
-          "ticker": "NVR",
-          "weight": "0.03",
-          "sector": "Consumer Discretionary",
-          "industry": "Household Durables"
-        },
-        {
-          "rank": 419,
+          "rank": 416,
           "name": "Best Buy Co Inc",
           "ticker": "BBY",
           "weight": "0.03",
@@ -1712,7 +1704,15 @@
           "industry": "Specialty Retail"
         },
         {
-          "rank": 421,
+          "rank": 419,
+          "name": "NVR Inc",
+          "ticker": "NVR",
+          "weight": "0.03",
+          "sector": "Consumer Discretionary",
+          "industry": "Household Durables"
+        },
+        {
+          "rank": 423,
           "name": "Genuine Parts Co",
           "ticker": "GPC",
           "weight": "0.02",
@@ -1720,7 +1720,7 @@
           "industry": "Distributors"
         },
         {
-          "rank": 428,
+          "rank": 426,
           "name": "Tractor Supply Co",
           "ticker": "TSCO",
           "weight": "0.02",
@@ -1728,7 +1728,7 @@
           "industry": "Specialty Retail"
         },
         {
-          "rank": 436,
+          "rank": 438,
           "name": "Deckers Outdoor Corp",
           "ticker": "DECK",
           "weight": "0.02",
@@ -1736,7 +1736,7 @@
           "industry": "Textiles, Apparel & Luxury Goods"
         },
         {
-          "rank": 446,
+          "rank": 450,
           "name": "Lululemon Athletica Inc",
           "ticker": "LULU",
           "weight": "0.02",
@@ -1744,7 +1744,7 @@
           "industry": "Textiles, Apparel & Luxury Goods"
         },
         {
-          "rank": 460,
+          "rank": 461,
           "name": "Aptiv PLC",
           "ticker": "APTV",
           "weight": "0.02",
@@ -1752,7 +1752,7 @@
           "industry": "Automobile Components"
         },
         {
-          "rank": 466,
+          "rank": 467,
           "name": "MGM Resorts International",
           "ticker": "MGM",
           "weight": "0.02",
@@ -1760,7 +1760,7 @@
           "industry": "Hotels, Restaurants & Leisure"
         },
         {
-          "rank": 475,
+          "rank": 477,
           "name": "Hasbro Inc",
           "ticker": "HAS",
           "weight": "0.02",
@@ -1768,7 +1768,7 @@
           "industry": "Leisure Products"
         },
         {
-          "rank": 487,
+          "rank": 486,
           "name": "Domino's Pizza Inc",
           "ticker": "DPZ",
           "weight": "0.02",
@@ -1776,7 +1776,7 @@
           "industry": "Hotels, Restaurants & Leisure"
         },
         {
-          "rank": 488,
+          "rank": 489,
           "name": "Wynn Resorts Ltd",
           "ticker": "WYNN",
           "weight": "0.01",
@@ -1784,7 +1784,7 @@
           "industry": "Hotels, Restaurants & Leisure"
         },
         {
-          "rank": 495,
+          "rank": 492,
           "name": "Norwegian Cruise Line Holdings Ltd",
           "ticker": "NCLH",
           "weight": "0.01",
@@ -1795,13 +1795,13 @@
     },
     {
       "sector": "Health Care",
-      "total_percent": "8.83",
+      "total_percent": "8.64",
       "companies": [
         {
           "rank": 12,
           "name": "Eli Lilly & Co",
           "ticker": "LLY",
-          "weight": "1.54",
+          "weight": "1.50",
           "sector": "Health Care",
           "industry": "Pharmaceuticals"
         },
@@ -1809,15 +1809,15 @@
           "rank": 17,
           "name": "Johnson & Johnson",
           "ticker": "JNJ",
-          "weight": "0.91",
+          "weight": "0.89",
           "sector": "Health Care",
           "industry": "Pharmaceuticals"
         },
         {
-          "rank": 23,
+          "rank": 24,
           "name": "AbbVie Inc",
           "ticker": "ABBV",
-          "weight": "0.64",
+          "weight": "0.63",
           "sector": "Health Care",
           "industry": "Biotechnology"
         },
@@ -1825,20 +1825,20 @@
           "rank": 28,
           "name": "UnitedHealth Group Inc",
           "ticker": "UNH",
-          "weight": "0.57",
+          "weight": "0.56",
           "sector": "Health Care",
           "industry": "Health Care Providers & Services"
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Merck & Co Inc",
           "ticker": "MRK",
-          "weight": "0.45",
+          "weight": "0.43",
           "sector": "Health Care",
           "industry": "Pharmaceuticals"
         },
         {
-          "rank": 55,
+          "rank": 58,
           "name": "Thermo Fisher Scientific Inc",
           "ticker": "TMO",
           "weight": "0.29",
@@ -1846,7 +1846,7 @@
           "industry": "Life Sciences Tools & Services"
         },
         {
-          "rank": 58,
+          "rank": 61,
           "name": "Amgen Inc",
           "ticker": "AMGN",
           "weight": "0.28",
@@ -1854,7 +1854,7 @@
           "industry": "Biotechnology"
         },
         {
-          "rank": 74,
+          "rank": 75,
           "name": "Gilead Sciences Inc",
           "ticker": "GILD",
           "weight": "0.24",
@@ -1862,7 +1862,7 @@
           "industry": "Biotechnology"
         },
         {
-          "rank": 75,
+          "rank": 79,
           "name": "Abbott Laboratories",
           "ticker": "ABT",
           "weight": "0.23",
@@ -1871,14 +1871,6 @@
         },
         {
           "rank": 84,
-          "name": "Intuitive Surgical Inc",
-          "ticker": "ISRG",
-          "weight": "0.21",
-          "sector": "Health Care",
-          "industry": "Health Care Equipment & Supplies"
-        },
-        {
-          "rank": 85,
           "name": "Danaher Corp",
           "ticker": "DHR",
           "weight": "0.21",
@@ -1886,7 +1878,7 @@
           "industry": "Life Sciences Tools & Services"
         },
         {
-          "rank": 87,
+          "rank": 85,
           "name": "Pfizer Inc",
           "ticker": "PFE",
           "weight": "0.20",
@@ -1894,7 +1886,7 @@
           "industry": "Pharmaceuticals"
         },
         {
-          "rank": 92,
+          "rank": 89,
           "name": "CVS Health Corp",
           "ticker": "CVS",
           "weight": "0.20",
@@ -1902,15 +1894,15 @@
           "industry": "Health Care Providers & Services"
         },
         {
-          "rank": 95,
-          "name": "Stryker Corp",
-          "ticker": "SYK",
-          "weight": "0.19",
+          "rank": 90,
+          "name": "Intuitive Surgical Inc",
+          "ticker": "ISRG",
+          "weight": "0.20",
           "sector": "Health Care",
           "industry": "Health Care Equipment & Supplies"
         },
         {
-          "rank": 98,
+          "rank": 99,
           "name": "Vertex Pharmaceuticals Inc",
           "ticker": "VRTX",
           "weight": "0.18",
@@ -1918,23 +1910,31 @@
           "industry": "Biotechnology"
         },
         {
-          "rank": 99,
-          "name": "Bristol-Myers Squibb Co",
-          "ticker": "BMY",
-          "weight": "0.18",
-          "sector": "Health Care",
-          "industry": "Pharmaceuticals"
-        },
-        {
-          "rank": 109,
-          "name": "Medtronic PLC",
-          "ticker": "MDT",
-          "weight": "0.16",
+          "rank": 100,
+          "name": "Stryker Corp",
+          "ticker": "SYK",
+          "weight": "0.17",
           "sector": "Health Care",
           "industry": "Health Care Equipment & Supplies"
         },
         {
-          "rank": 124,
+          "rank": 105,
+          "name": "Bristol-Myers Squibb Co",
+          "ticker": "BMY",
+          "weight": "0.17",
+          "sector": "Health Care",
+          "industry": "Pharmaceuticals"
+        },
+        {
+          "rank": 113,
+          "name": "Medtronic PLC",
+          "ticker": "MDT",
+          "weight": "0.15",
+          "sector": "Health Care",
+          "industry": "Health Care Equipment & Supplies"
+        },
+        {
+          "rank": 127,
           "name": "McKesson Corp",
           "ticker": "MCK",
           "weight": "0.14",
@@ -1942,7 +1942,7 @@
           "industry": "Health Care Providers & Services"
         },
         {
-          "rank": 128,
+          "rank": 131,
           "name": "Elevance Health Inc",
           "ticker": "ELV",
           "weight": "0.13",
@@ -1950,15 +1950,15 @@
           "industry": "Health Care Providers & Services"
         },
         {
-          "rank": 140,
+          "rank": 150,
           "name": "HCA Healthcare Inc",
           "ticker": "HCA",
-          "weight": "0.13",
+          "weight": "0.12",
           "sector": "Health Care",
           "industry": "Health Care Providers & Services"
         },
         {
-          "rank": 150,
+          "rank": 151,
           "name": "Cigna Group/The",
           "ticker": "CI",
           "weight": "0.12",
@@ -1966,7 +1966,7 @@
           "industry": "Health Care Providers & Services"
         },
         {
-          "rank": 177,
+          "rank": 181,
           "name": "Regeneron Pharmaceuticals Inc",
           "ticker": "REGN",
           "weight": "0.10",
@@ -1974,10 +1974,10 @@
           "industry": "Biotechnology"
         },
         {
-          "rank": 189,
+          "rank": 198,
           "name": "Boston Scientific Corp",
           "ticker": "BSX",
-          "weight": "0.10",
+          "weight": "0.09",
           "sector": "Health Care",
           "industry": "Health Care Equipment & Supplies"
         },
@@ -1990,7 +1990,7 @@
           "industry": "Health Care Providers & Services"
         },
         {
-          "rank": 219,
+          "rank": 222,
           "name": "Cardinal Health Inc",
           "ticker": "CAH",
           "weight": "0.08",
@@ -1998,7 +1998,7 @@
           "industry": "Health Care Providers & Services"
         },
         {
-          "rank": 229,
+          "rank": 230,
           "name": "Edwards Lifesciences Corp",
           "ticker": "EW",
           "weight": "0.08",
@@ -2006,7 +2006,7 @@
           "industry": "Health Care Equipment & Supplies"
         },
         {
-          "rank": 239,
+          "rank": 240,
           "name": "Humana Inc",
           "ticker": "HUM",
           "weight": "0.07",
@@ -2014,15 +2014,15 @@
           "industry": "Health Care Providers & Services"
         },
         {
-          "rank": 254,
+          "rank": 256,
           "name": "IDEXX Laboratories Inc",
           "ticker": "IDXX",
-          "weight": "0.07",
+          "weight": "0.06",
           "sector": "Health Care",
           "industry": "Health Care Equipment & Supplies"
         },
         {
-          "rank": 259,
+          "rank": 263,
           "name": "Becton Dickinson & Co",
           "ticker": "BDX",
           "weight": "0.06",
@@ -2030,7 +2030,7 @@
           "industry": "Health Care Equipment & Supplies"
         },
         {
-          "rank": 276,
+          "rank": 274,
           "name": "Agilent Technologies Inc",
           "ticker": "A",
           "weight": "0.06",
@@ -2038,7 +2038,7 @@
           "industry": "Life Sciences Tools & Services"
         },
         {
-          "rank": 279,
+          "rank": 278,
           "name": "Waters Corp",
           "ticker": "WAT",
           "weight": "0.05",
@@ -2046,7 +2046,7 @@
           "industry": "Life Sciences Tools & Services"
         },
         {
-          "rank": 292,
+          "rank": 290,
           "name": "IQVIA Holdings Inc",
           "ticker": "IQV",
           "weight": "0.05",
@@ -2062,7 +2062,7 @@
           "industry": "Health Care Providers & Services"
         },
         {
-          "rank": 301,
+          "rank": 302,
           "name": "Veeva Systems",
           "ticker": "VEEV",
           "weight": "0.05",
@@ -2070,7 +2070,7 @@
           "industry": "Health Care Technology"
         },
         {
-          "rank": 304,
+          "rank": 306,
           "name": "Zoetis Inc",
           "ticker": "ZTS",
           "weight": "0.05",
@@ -2078,23 +2078,7 @@
           "industry": "Pharmaceuticals"
         },
         {
-          "rank": 308,
-          "name": "Biogen Inc",
-          "ticker": "BIIB",
-          "weight": "0.05",
-          "sector": "Health Care",
-          "industry": "Biotechnology"
-        },
-        {
-          "rank": 315,
-          "name": "GE HealthCare Technologies Inc",
-          "ticker": "GEHC",
-          "weight": "0.04",
-          "sector": "Health Care",
-          "industry": "Health Care Equipment & Supplies"
-        },
-        {
-          "rank": 318,
+          "rank": 326,
           "name": "Dexcom Inc",
           "ticker": "DXCM",
           "weight": "0.04",
@@ -2102,7 +2086,23 @@
           "industry": "Health Care Equipment & Supplies"
         },
         {
-          "rank": 329,
+          "rank": 328,
+          "name": "Biogen Inc",
+          "ticker": "BIIB",
+          "weight": "0.04",
+          "sector": "Health Care",
+          "industry": "Biotechnology"
+        },
+        {
+          "rank": 331,
+          "name": "GE HealthCare Technologies Inc",
+          "ticker": "GEHC",
+          "weight": "0.04",
+          "sector": "Health Care",
+          "industry": "Health Care Equipment & Supplies"
+        },
+        {
+          "rank": 332,
           "name": "ResMed Inc",
           "ticker": "RMD",
           "weight": "0.04",
@@ -2110,7 +2110,7 @@
           "industry": "Health Care Equipment & Supplies"
         },
         {
-          "rank": 344,
+          "rank": 341,
           "name": "Moderna Inc",
           "ticker": "MRNA",
           "weight": "0.04",
@@ -2118,7 +2118,7 @@
           "industry": "Biotechnology"
         },
         {
-          "rank": 346,
+          "rank": 342,
           "name": "Mettler-Toledo International Inc",
           "ticker": "MTD",
           "weight": "0.04",
@@ -2126,7 +2126,7 @@
           "industry": "Life Sciences Tools & Services"
         },
         {
-          "rank": 350,
+          "rank": 353,
           "name": "West Pharmaceutical Services Inc",
           "ticker": "WST",
           "weight": "0.04",
@@ -2134,15 +2134,7 @@
           "industry": "Life Sciences Tools & Services"
         },
         {
-          "rank": 374,
-          "name": "Quest Diagnostics Inc",
-          "ticker": "DGX",
-          "weight": "0.03",
-          "sector": "Health Care",
-          "industry": "Health Care Providers & Services"
-        },
-        {
-          "rank": 375,
+          "rank": 372,
           "name": "Incyte Corp",
           "ticker": "INCY",
           "weight": "0.03",
@@ -2150,7 +2142,15 @@
           "industry": "Biotechnology"
         },
         {
-          "rank": 378,
+          "rank": 373,
+          "name": "Quest Diagnostics Inc",
+          "ticker": "DGX",
+          "weight": "0.03",
+          "sector": "Health Care",
+          "industry": "Health Care Providers & Services"
+        },
+        {
+          "rank": 376,
           "name": "Labcorp Holdings Inc",
           "ticker": "LH",
           "weight": "0.03",
@@ -2158,7 +2158,7 @@
           "industry": "Health Care Providers & Services"
         },
         {
-          "rank": 388,
+          "rank": 392,
           "name": "STERIS PLC",
           "ticker": "STE",
           "weight": "0.03",
@@ -2174,7 +2174,7 @@
           "industry": "Pharmaceuticals"
         },
         {
-          "rank": 412,
+          "rank": 417,
           "name": "Zimmer Biomet Holdings Inc",
           "ticker": "ZBH",
           "weight": "0.03",
@@ -2182,7 +2182,7 @@
           "industry": "Health Care Equipment & Supplies"
         },
         {
-          "rank": 434,
+          "rank": 437,
           "name": "DaVita Inc",
           "ticker": "DVA",
           "weight": "0.02",
@@ -2190,7 +2190,7 @@
           "industry": "Health Care Providers & Services"
         },
         {
-          "rank": 443,
+          "rank": 449,
           "name": "Cooper Cos Inc/The",
           "ticker": "COO",
           "weight": "0.02",
@@ -2198,7 +2198,7 @@
           "industry": "Health Care Equipment & Supplies"
         },
         {
-          "rank": 450,
+          "rank": 452,
           "name": "Solventum Corp",
           "ticker": "SOLV",
           "weight": "0.02",
@@ -2214,7 +2214,7 @@
           "industry": "Health Care Equipment & Supplies"
         },
         {
-          "rank": 461,
+          "rank": 458,
           "name": "Revvity Inc",
           "ticker": "RVTY",
           "weight": "0.02",
@@ -2222,7 +2222,7 @@
           "industry": "Life Sciences Tools & Services"
         },
         {
-          "rank": 472,
+          "rank": 473,
           "name": "Baxter International Inc",
           "ticker": "BAX",
           "weight": "0.02",
@@ -2230,15 +2230,15 @@
           "industry": "Health Care Equipment & Supplies"
         },
         {
-          "rank": 476,
-          "name": "Insulet Corp",
-          "ticker": "PODD",
+          "rank": 475,
+          "name": "Charles River Laboratories International Inc",
+          "ticker": "CRL",
           "weight": "0.02",
           "sector": "Health Care",
-          "industry": "Health Care Equipment & Supplies"
+          "industry": "Life Sciences Tools & Services"
         },
         {
-          "rank": 479,
+          "rank": 476,
           "name": "Bio-Techne Corp",
           "ticker": "TECH",
           "weight": "0.02",
@@ -2246,12 +2246,12 @@
           "industry": "Life Sciences Tools & Services"
         },
         {
-          "rank": 481,
-          "name": "Charles River Laboratories International Inc",
-          "ticker": "CRL",
+          "rank": 479,
+          "name": "Insulet Corp",
+          "ticker": "PODD",
           "weight": "0.02",
           "sector": "Health Care",
-          "industry": "Life Sciences Tools & Services"
+          "industry": "Health Care Equipment & Supplies"
         },
         {
           "rank": 490,
@@ -2262,7 +2262,7 @@
           "industry": "Health Care Providers & Services"
         },
         {
-          "rank": 494,
+          "rank": 495,
           "name": "Universal Health Services Inc",
           "ticker": "UHS",
           "weight": "0.01",
@@ -2273,10 +2273,10 @@
     },
     {
       "sector": "Industrials",
-      "total_percent": "8.37",
+      "total_percent": "8.36",
       "companies": [
         {
-          "rank": 24,
+          "rank": 26,
           "name": "Caterpillar Inc",
           "ticker": "CAT",
           "weight": "0.63",
@@ -2284,7 +2284,7 @@
           "industry": "Machinery"
         },
         {
-          "rank": 30,
+          "rank": 29,
           "name": "General Electric Co",
           "ticker": "GE",
           "weight": "0.54",
@@ -2292,18 +2292,18 @@
           "industry": "Aerospace & Defense"
         },
         {
-          "rank": 42,
+          "rank": 43,
           "name": "GE Vernova Inc",
           "ticker": "GEV",
-          "weight": "0.41",
+          "weight": "0.42",
           "sector": "Industrials",
           "industry": "Electrical Equipment"
         },
         {
-          "rank": 48,
+          "rank": 47,
           "name": "RTX Corp",
           "ticker": "RTX",
-          "weight": "0.39",
+          "weight": "0.38",
           "sector": "Industrials",
           "industry": "Aerospace & Defense"
         },
@@ -2324,15 +2324,7 @@
           "industry": "Aerospace & Defense"
         },
         {
-          "rank": 77,
-          "name": "Deere & Co",
-          "ticker": "DE",
-          "weight": "0.23",
-          "sector": "Industrials",
-          "industry": "Machinery"
-        },
-        {
-          "rank": 79,
+          "rank": 76,
           "name": "Eaton Corp PLC",
           "ticker": "ETN",
           "weight": "0.23",
@@ -2340,23 +2332,23 @@
           "industry": "Electrical Equipment"
         },
         {
-          "rank": 80,
+          "rank": 78,
+          "name": "Deere & Co",
+          "ticker": "DE",
+          "weight": "0.23",
+          "sector": "Industrials",
+          "industry": "Machinery"
+        },
+        {
+          "rank": 83,
           "name": "Uber Technologies Inc",
           "ticker": "UBER",
-          "weight": "0.22",
+          "weight": "0.21",
           "sector": "Industrials",
           "industry": "Ground Transportation"
         },
         {
-          "rank": 100,
-          "name": "Lockheed Martin Corp",
-          "ticker": "LMT",
-          "weight": "0.18",
-          "sector": "Industrials",
-          "industry": "Aerospace & Defense"
-        },
-        {
-          "rank": 102,
+          "rank": 97,
           "name": "Parker-Hannifin Corp",
           "ticker": "PH",
           "weight": "0.18",
@@ -2364,7 +2356,15 @@
           "industry": "Machinery"
         },
         {
-          "rank": 104,
+          "rank": 101,
+          "name": "Lockheed Martin Corp",
+          "ticker": "LMT",
+          "weight": "0.17",
+          "sector": "Industrials",
+          "industry": "Aerospace & Defense"
+        },
+        {
+          "rank": 103,
           "name": "Vertiv Holdings",
           "ticker": "VRT",
           "weight": "0.17",
@@ -2372,7 +2372,7 @@
           "industry": "Electrical Equipment"
         },
         {
-          "rank": 108,
+          "rank": 106,
           "name": "Howmet Aerospace Inc",
           "ticker": "HWM",
           "weight": "0.16",
@@ -2380,7 +2380,7 @@
           "industry": "Aerospace & Defense"
         },
         {
-          "rank": 110,
+          "rank": 109,
           "name": "Trane Technologies PLC",
           "ticker": "TT",
           "weight": "0.16",
@@ -2388,7 +2388,7 @@
           "industry": "Building Products"
         },
         {
-          "rank": 115,
+          "rank": 117,
           "name": "General Dynamics Corp",
           "ticker": "GD",
           "weight": "0.15",
@@ -2396,20 +2396,20 @@
           "industry": "Aerospace & Defense"
         },
         {
-          "rank": 116,
-          "name": "Automatic Data Processing Inc",
-          "ticker": "ADP",
-          "weight": "0.15",
-          "sector": "Industrials",
-          "industry": "Professional Services"
-        },
-        {
-          "rank": 121,
+          "rank": 118,
           "name": "Quanta Services Inc",
           "ticker": "PWR",
           "weight": "0.14",
           "sector": "Industrials",
           "industry": "Construction & Engineering"
+        },
+        {
+          "rank": 120,
+          "name": "Automatic Data Processing Inc",
+          "ticker": "ADP",
+          "weight": "0.14",
+          "sector": "Industrials",
+          "industry": "Professional Services"
         },
         {
           "rank": 122,
@@ -2420,7 +2420,7 @@
           "industry": "Air Freight & Logistics"
         },
         {
-          "rank": 125,
+          "rank": 126,
           "name": "Waste Management Inc",
           "ticker": "WM",
           "weight": "0.14",
@@ -2428,23 +2428,23 @@
           "industry": "Commercial Services & Supplies"
         },
         {
-          "rank": 129,
-          "name": "CSX Corp",
-          "ticker": "CSX",
-          "weight": "0.13",
-          "sector": "Industrials",
-          "industry": "Ground Transportation"
-        },
-        {
-          "rank": 131,
+          "rank": 128,
           "name": "Cummins Inc",
           "ticker": "CMI",
-          "weight": "0.13",
+          "weight": "0.14",
           "sector": "Industrials",
           "industry": "Machinery"
         },
         {
-          "rank": 136,
+          "rank": 130,
+          "name": "CSX Corp",
+          "ticker": "CSX",
+          "weight": "0.14",
+          "sector": "Industrials",
+          "industry": "Ground Transportation"
+        },
+        {
+          "rank": 135,
           "name": "Johnson Controls International plc",
           "ticker": "JCI",
           "weight": "0.13",
@@ -2452,7 +2452,7 @@
           "industry": "Building Products"
         },
         {
-          "rank": 148,
+          "rank": 146,
           "name": "3M Co",
           "ticker": "MMM",
           "weight": "0.12",
@@ -2460,7 +2460,7 @@
           "industry": "Industrial Conglomerates"
         },
         {
-          "rank": 155,
+          "rank": 153,
           "name": "Illinois Tool Works Inc",
           "ticker": "ITW",
           "weight": "0.11",
@@ -2468,20 +2468,20 @@
           "industry": "Machinery"
         },
         {
-          "rank": 158,
-          "name": "Northrop Grumman Corp",
-          "ticker": "NOC",
-          "weight": "0.11",
-          "sector": "Industrials",
-          "industry": "Aerospace & Defense"
-        },
-        {
-          "rank": 161,
+          "rank": 157,
           "name": "Emerson Electric Co",
           "ticker": "EMR",
           "weight": "0.11",
           "sector": "Industrials",
           "industry": "Electrical Equipment"
+        },
+        {
+          "rank": 161,
+          "name": "Northrop Grumman Corp",
+          "ticker": "NOC",
+          "weight": "0.11",
+          "sector": "Industrials",
+          "industry": "Aerospace & Defense"
         },
         {
           "rank": 162,
@@ -2492,15 +2492,7 @@
           "industry": "Air Freight & Logistics"
         },
         {
-          "rank": 166,
-          "name": "Norfolk Southern Corp",
-          "ticker": "NSC",
-          "weight": "0.11",
-          "sector": "Industrials",
-          "industry": "Ground Transportation"
-        },
-        {
-          "rank": 167,
+          "rank": 164,
           "name": "Cintas Corp",
           "ticker": "CTAS",
           "weight": "0.11",
@@ -2508,7 +2500,15 @@
           "industry": "Commercial Services & Supplies"
         },
         {
-          "rank": 174,
+          "rank": 167,
+          "name": "Norfolk Southern Corp",
+          "ticker": "NSC",
+          "weight": "0.11",
+          "sector": "Industrials",
+          "industry": "Ground Transportation"
+        },
+        {
+          "rank": 176,
           "name": "Honeywell International Inc",
           "ticker": "HON",
           "weight": "0.10",
@@ -2516,7 +2516,7 @@
           "industry": "Industrial Conglomerates"
         },
         {
-          "rank": 180,
+          "rank": 183,
           "name": "TransDigm Group Inc",
           "ticker": "TDG",
           "weight": "0.10",
@@ -2524,7 +2524,7 @@
           "industry": "Aerospace & Defense"
         },
         {
-          "rank": 181,
+          "rank": 184,
           "name": "Republic Services Inc",
           "ticker": "RSG",
           "weight": "0.10",
@@ -2532,7 +2532,7 @@
           "industry": "Commercial Services & Supplies"
         },
         {
-          "rank": 184,
+          "rank": 186,
           "name": "United Rentals Inc",
           "ticker": "URI",
           "weight": "0.10",
@@ -2540,7 +2540,7 @@
           "industry": "Trading Companies & Distributors"
         },
         {
-          "rank": 186,
+          "rank": 188,
           "name": "Honeywell Aerospace",
           "ticker": "HONA",
           "weight": "0.10",
@@ -2548,23 +2548,23 @@
           "industry": "Aerospace & Defense"
         },
         {
-          "rank": 192,
-          "name": "WW Grainger Inc",
-          "ticker": "GWW",
-          "weight": "0.10",
-          "sector": "Industrials",
-          "industry": "Trading Companies & Distributors"
-        },
-        {
-          "rank": 193,
+          "rank": 190,
           "name": "PACCAR Inc",
           "ticker": "PCAR",
-          "weight": "0.10",
+          "weight": "0.09",
           "sector": "Industrials",
           "industry": "Machinery"
         },
         {
-          "rank": 203,
+          "rank": 192,
+          "name": "WW Grainger Inc",
+          "ticker": "GWW",
+          "weight": "0.09",
+          "sector": "Industrials",
+          "industry": "Trading Companies & Distributors"
+        },
+        {
+          "rank": 201,
           "name": "Comfort Systems USA Inc",
           "ticker": "FIX",
           "weight": "0.09",
@@ -2572,7 +2572,7 @@
           "industry": "Construction & Engineering"
         },
         {
-          "rank": 214,
+          "rank": 211,
           "name": "Carrier Global Corp",
           "ticker": "CARR",
           "weight": "0.08",
@@ -2589,14 +2589,6 @@
         },
         {
           "rank": 221,
-          "name": "Fastenal Co",
-          "ticker": "FAST",
-          "weight": "0.08",
-          "sector": "Industrials",
-          "industry": "Trading Companies & Distributors"
-        },
-        {
-          "rank": 223,
           "name": "L3Harris Technologies Inc",
           "ticker": "LHX",
           "weight": "0.08",
@@ -2604,7 +2596,7 @@
           "industry": "Aerospace & Defense"
         },
         {
-          "rank": 227,
+          "rank": 225,
           "name": "AMETEK Inc",
           "ticker": "AME",
           "weight": "0.08",
@@ -2612,15 +2604,23 @@
           "industry": "Electrical Equipment"
         },
         {
-          "rank": 232,
+          "rank": 228,
+          "name": "Fastenal Co",
+          "ticker": "FAST",
+          "weight": "0.08",
+          "sector": "Industrials",
+          "industry": "Trading Companies & Distributors"
+        },
+        {
+          "rank": 229,
           "name": "Rockwell Automation Inc",
           "ticker": "ROK",
-          "weight": "0.07",
+          "weight": "0.08",
           "sector": "Industrials",
           "industry": "Electrical Equipment"
         },
         {
-          "rank": 240,
+          "rank": 244,
           "name": "Old Dominion Freight Line Inc",
           "ticker": "ODFL",
           "weight": "0.07",
@@ -2628,7 +2628,7 @@
           "industry": "Ground Transportation"
         },
         {
-          "rank": 255,
+          "rank": 251,
           "name": "Westinghouse Air Brake Technologies Corp",
           "ticker": "WAB",
           "weight": "0.06",
@@ -2636,7 +2636,7 @@
           "industry": "Machinery"
         },
         {
-          "rank": 256,
+          "rank": 252,
           "name": "Axon Enterprise Inc",
           "ticker": "AXON",
           "weight": "0.06",
@@ -2644,20 +2644,20 @@
           "industry": "Aerospace & Defense"
         },
         {
-          "rank": 271,
-          "name": "Paychex Inc",
-          "ticker": "PAYX",
-          "weight": "0.06",
-          "sector": "Industrials",
-          "industry": "Professional Services"
-        },
-        {
-          "rank": 272,
+          "rank": 270,
           "name": "United Airlines Holdings Inc",
           "ticker": "UAL",
           "weight": "0.06",
           "sector": "Industrials",
           "industry": "Passenger Airlines"
+        },
+        {
+          "rank": 272,
+          "name": "Paychex Inc",
+          "ticker": "PAYX",
+          "weight": "0.06",
+          "sector": "Industrials",
+          "industry": "Professional Services"
         },
         {
           "rank": 295,
@@ -2668,23 +2668,15 @@
           "industry": "Construction & Engineering"
         },
         {
-          "rank": 309,
+          "rank": 308,
           "name": "Ingersoll Rand Inc",
           "ticker": "IR",
-          "weight": "0.04",
+          "weight": "0.05",
           "sector": "Industrials",
           "industry": "Machinery"
         },
         {
-          "rank": 327,
-          "name": "Dover Corp",
-          "ticker": "DOV",
-          "weight": "0.04",
-          "sector": "Industrials",
-          "industry": "Machinery"
-        },
-        {
-          "rank": 328,
+          "rank": 320,
           "name": "Xylem Inc/NY",
           "ticker": "XYL",
           "weight": "0.04",
@@ -2692,7 +2684,15 @@
           "industry": "Machinery"
         },
         {
-          "rank": 332,
+          "rank": 322,
+          "name": "Dover Corp",
+          "ticker": "DOV",
+          "weight": "0.04",
+          "sector": "Industrials",
+          "industry": "Machinery"
+        },
+        {
+          "rank": 334,
           "name": "Otis Worldwide Corp",
           "ticker": "OTIS",
           "weight": "0.04",
@@ -2700,7 +2700,7 @@
           "industry": "Machinery"
         },
         {
-          "rank": 343,
+          "rank": 344,
           "name": "JB Hunt Transport Services Inc",
           "ticker": "JBHT",
           "weight": "0.04",
@@ -2708,7 +2708,15 @@
           "industry": "Ground Transportation"
         },
         {
-          "rank": 351,
+          "rank": 350,
+          "name": "Hubbell Inc",
+          "ticker": "HUBB",
+          "weight": "0.04",
+          "sector": "Industrials",
+          "industry": "Electrical Equipment"
+        },
+        {
+          "rank": 352,
           "name": "Copart Inc",
           "ticker": "CPRT",
           "weight": "0.04",
@@ -2716,7 +2724,7 @@
           "industry": "Commercial Services & Supplies"
         },
         {
-          "rank": 352,
+          "rank": 355,
           "name": "Verisk Analytics Inc",
           "ticker": "VRSK",
           "weight": "0.04",
@@ -2724,12 +2732,20 @@
           "industry": "Professional Services"
         },
         {
-          "rank": 354,
-          "name": "Hubbell Inc",
-          "ticker": "HUBB",
-          "weight": "0.04",
+          "rank": 365,
+          "name": "CH Robinson Worldwide Inc",
+          "ticker": "CHRW",
+          "weight": "0.03",
           "sector": "Industrials",
-          "industry": "Electrical Equipment"
+          "industry": "Air Freight & Logistics"
+        },
+        {
+          "rank": 366,
+          "name": "Expeditors International of Washington Inc",
+          "ticker": "EXPD",
+          "weight": "0.03",
+          "sector": "Industrials",
+          "industry": "Air Freight & Logistics"
         },
         {
           "rank": 368,
@@ -2740,23 +2756,7 @@
           "industry": "Passenger Airlines"
         },
         {
-          "rank": 370,
-          "name": "CH Robinson Worldwide Inc",
-          "ticker": "CHRW",
-          "weight": "0.03",
-          "sector": "Industrials",
-          "industry": "Air Freight & Logistics"
-        },
-        {
-          "rank": 373,
-          "name": "Expeditors International of Washington Inc",
-          "ticker": "EXPD",
-          "weight": "0.03",
-          "sector": "Industrials",
-          "industry": "Air Freight & Logistics"
-        },
-        {
-          "rank": 376,
+          "rank": 377,
           "name": "Veralto Corp",
           "ticker": "VLTO",
           "weight": "0.03",
@@ -2764,7 +2764,7 @@
           "industry": "Commercial Services & Supplies"
         },
         {
-          "rank": 384,
+          "rank": 385,
           "name": "FedEx Freight",
           "ticker": "FDXF",
           "weight": "0.03",
@@ -2772,7 +2772,7 @@
           "industry": "Air Freight & Logistics"
         },
         {
-          "rank": 387,
+          "rank": 386,
           "name": "Rollins Inc",
           "ticker": "ROL",
           "weight": "0.03",
@@ -2780,7 +2780,7 @@
           "industry": "Commercial Services & Supplies"
         },
         {
-          "rank": 392,
+          "rank": 389,
           "name": "Snap-on Inc",
           "ticker": "SNA",
           "weight": "0.03",
@@ -2788,7 +2788,7 @@
           "industry": "Machinery"
         },
         {
-          "rank": 393,
+          "rank": 398,
           "name": "Equifax Inc",
           "ticker": "EFX",
           "weight": "0.03",
@@ -2796,7 +2796,7 @@
           "industry": "Professional Services"
         },
         {
-          "rank": 404,
+          "rank": 402,
           "name": "Lennox International Inc",
           "ticker": "LII",
           "weight": "0.03",
@@ -2804,7 +2804,7 @@
           "industry": "Building Products"
         },
         {
-          "rank": 408,
+          "rank": 409,
           "name": "Fortive Corp",
           "ticker": "FTV",
           "weight": "0.03",
@@ -2820,12 +2820,20 @@
           "industry": "Machinery"
         },
         {
-          "rank": 427,
+          "rank": 429,
           "name": "Nordson Corp",
           "ticker": "NDSN",
           "weight": "0.02",
           "sector": "Industrials",
           "industry": "Machinery"
+        },
+        {
+          "rank": 431,
+          "name": "Masco Corp",
+          "ticker": "MAS",
+          "weight": "0.02",
+          "sector": "Industrials",
+          "industry": "Building Products"
         },
         {
           "rank": 432,
@@ -2836,15 +2844,7 @@
           "industry": "Aerospace & Defense"
         },
         {
-          "rank": 433,
-          "name": "Masco Corp",
-          "ticker": "MAS",
-          "weight": "0.02",
-          "sector": "Industrials",
-          "industry": "Building Products"
-        },
-        {
-          "rank": 438,
+          "rank": 434,
           "name": "Jacobs Solutions Inc",
           "ticker": "J",
           "weight": "0.02",
@@ -2852,7 +2852,7 @@
           "industry": "Professional Services"
         },
         {
-          "rank": 449,
+          "rank": 447,
           "name": "Stanley Black & Decker Inc",
           "ticker": "SWK",
           "weight": "0.02",
@@ -2860,7 +2860,7 @@
           "industry": "Machinery"
         },
         {
-          "rank": 451,
+          "rank": 448,
           "name": "Leidos Holdings Inc",
           "ticker": "LDOS",
           "weight": "0.02",
@@ -2868,7 +2868,7 @@
           "industry": "Professional Services"
         },
         {
-          "rank": 452,
+          "rank": 451,
           "name": "Generac Holdings Inc",
           "ticker": "GNRC",
           "weight": "0.02",
@@ -2884,7 +2884,7 @@
           "industry": "Machinery"
         },
         {
-          "rank": 471,
+          "rank": 468,
           "name": "Allegion plc",
           "ticker": "ALLE",
           "weight": "0.02",
@@ -2892,7 +2892,7 @@
           "industry": "Building Products"
         },
         {
-          "rank": 477,
+          "rank": 478,
           "name": "Huntington Ingalls Industries Inc",
           "ticker": "HII",
           "weight": "0.02",
@@ -2900,7 +2900,7 @@
           "industry": "Aerospace & Defense"
         },
         {
-          "rank": 498,
+          "rank": 497,
           "name": "A O Smith Corp",
           "ticker": "AOS",
           "weight": "0.01",
@@ -2919,13 +2919,13 @@
     },
     {
       "sector": "Consumer Staples",
-      "total_percent": "5.13",
+      "total_percent": "5.07",
       "companies": [
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Walmart Inc",
           "ticker": "WMT",
-          "weight": "1.33",
+          "weight": "1.32",
           "sector": "Consumer Staples",
           "industry": "Consumer Staples Distribution & Retail"
         },
@@ -2938,10 +2938,10 @@
           "industry": "Consumer Staples Distribution & Retail"
         },
         {
-          "rank": 32,
+          "rank": 33,
           "name": "Coca-Cola Co/The",
           "ticker": "KO",
-          "weight": "0.53",
+          "weight": "0.52",
           "sector": "Consumer Staples",
           "industry": "Beverages"
         },
@@ -2954,31 +2954,31 @@
           "industry": "Household Products"
         },
         {
-          "rank": 41,
+          "rank": 45,
           "name": "Philip Morris International Inc",
           "ticker": "PM",
-          "weight": "0.41",
+          "weight": "0.40",
           "sector": "Consumer Staples",
           "industry": "Tobacco"
         },
         {
-          "rank": 64,
+          "rank": 66,
           "name": "PepsiCo Inc",
           "ticker": "PEP",
-          "weight": "0.28",
+          "weight": "0.27",
           "sector": "Consumer Staples",
           "industry": "Beverages"
         },
         {
-          "rank": 101,
+          "rank": 102,
           "name": "Altria Group Inc",
           "ticker": "MO",
-          "weight": "0.18",
+          "weight": "0.17",
           "sector": "Consumer Staples",
           "industry": "Tobacco"
         },
         {
-          "rank": 126,
+          "rank": 124,
           "name": "Monster Beverage Corp",
           "ticker": "MNST",
           "weight": "0.14",
@@ -2986,7 +2986,7 @@
           "industry": "Beverages"
         },
         {
-          "rank": 159,
+          "rank": 160,
           "name": "Mondelez International Inc",
           "ticker": "MDLZ",
           "weight": "0.11",
@@ -2994,7 +2994,7 @@
           "industry": "Food Products"
         },
         {
-          "rank": 163,
+          "rank": 168,
           "name": "Colgate-Palmolive Co",
           "ticker": "CL",
           "weight": "0.11",
@@ -3002,7 +3002,7 @@
           "industry": "Household Products"
         },
         {
-          "rank": 202,
+          "rank": 204,
           "name": "Target Corp",
           "ticker": "TGT",
           "weight": "0.09",
@@ -3010,12 +3010,20 @@
           "industry": "Consumer Staples Distribution & Retail"
         },
         {
-          "rank": 258,
+          "rank": 265,
           "name": "Keurig Dr Pepper Inc",
           "ticker": "KDP",
           "weight": "0.06",
           "sector": "Consumer Staples",
           "industry": "Beverages"
+        },
+        {
+          "rank": 268,
+          "name": "Archer-Daniels-Midland Co",
+          "ticker": "ADM",
+          "weight": "0.06",
+          "sector": "Consumer Staples",
+          "industry": "Food Products"
         },
         {
           "rank": 269,
@@ -3026,15 +3034,7 @@
           "industry": "Consumer Staples Distribution & Retail"
         },
         {
-          "rank": 270,
-          "name": "Archer-Daniels-Midland Co",
-          "ticker": "ADM",
-          "weight": "0.06",
-          "sector": "Consumer Staples",
-          "industry": "Food Products"
-        },
-        {
-          "rank": 278,
+          "rank": 283,
           "name": "Kenvue Inc",
           "ticker": "KVUE",
           "weight": "0.05",
@@ -3042,15 +3042,7 @@
           "industry": "Personal Care Products"
         },
         {
-          "rank": 280,
-          "name": "Kimberly-Clark Corp",
-          "ticker": "KMB",
-          "weight": "0.05",
-          "sector": "Consumer Staples",
-          "industry": "Household Products"
-        },
-        {
-          "rank": 285,
+          "rank": 284,
           "name": "Kroger Co/The",
           "ticker": "KR",
           "weight": "0.05",
@@ -3058,7 +3050,15 @@
           "industry": "Consumer Staples Distribution & Retail"
         },
         {
-          "rank": 288,
+          "rank": 286,
+          "name": "Kimberly-Clark Corp",
+          "ticker": "KMB",
+          "weight": "0.05",
+          "sector": "Consumer Staples",
+          "industry": "Household Products"
+        },
+        {
+          "rank": 289,
           "name": "Hershey Co/The",
           "ticker": "HSY",
           "weight": "0.05",
@@ -3074,7 +3074,7 @@
           "industry": "Consumer Staples Distribution & Retail"
         },
         {
-          "rank": 313,
+          "rank": 311,
           "name": "Kraft Heinz Co/The",
           "ticker": "KHC",
           "weight": "0.04",
@@ -3082,7 +3082,7 @@
           "industry": "Food Products"
         },
         {
-          "rank": 321,
+          "rank": 317,
           "name": "Estee Lauder Cos Inc/The",
           "ticker": "EL",
           "weight": "0.04",
@@ -3090,7 +3090,7 @@
           "industry": "Personal Care Products"
         },
         {
-          "rank": 340,
+          "rank": 343,
           "name": "Dollar General Corp",
           "ticker": "DG",
           "weight": "0.04",
@@ -3098,31 +3098,15 @@
           "industry": "Consumer Staples Distribution & Retail"
         },
         {
-          "rank": 360,
+          "rank": 361,
           "name": "Dollar Tree Inc",
           "ticker": "DLTR",
-          "weight": "0.04",
+          "weight": "0.03",
           "sector": "Consumer Staples",
           "industry": "Consumer Staples Distribution & Retail"
         },
         {
-          "rank": 371,
-          "name": "Church & Dwight Co Inc",
-          "ticker": "CHD",
-          "weight": "0.03",
-          "sector": "Consumer Staples",
-          "industry": "Household Products"
-        },
-        {
-          "rank": 372,
-          "name": "Constellation Brands Inc",
-          "ticker": "STZ",
-          "weight": "0.03",
-          "sector": "Consumer Staples",
-          "industry": "Beverages"
-        },
-        {
-          "rank": 377,
+          "rank": 374,
           "name": "Bunge Global SA",
           "ticker": "BG",
           "weight": "0.03",
@@ -3130,7 +3114,23 @@
           "industry": "Food Products"
         },
         {
-          "rank": 394,
+          "rank": 375,
+          "name": "Church & Dwight Co Inc",
+          "ticker": "CHD",
+          "weight": "0.03",
+          "sector": "Consumer Staples",
+          "industry": "Household Products"
+        },
+        {
+          "rank": 380,
+          "name": "Constellation Brands Inc",
+          "ticker": "STZ",
+          "weight": "0.03",
+          "sector": "Consumer Staples",
+          "industry": "Beverages"
+        },
+        {
+          "rank": 393,
           "name": "Tyson Foods Inc",
           "ticker": "TSN",
           "weight": "0.03",
@@ -3146,7 +3146,7 @@
           "industry": "Food Products"
         },
         {
-          "rank": 442,
+          "rank": 441,
           "name": "McCormick & Co Inc/MD",
           "ticker": "MKC",
           "weight": "0.02",
@@ -3154,20 +3154,12 @@
           "industry": "Food Products"
         },
         {
-          "rank": 448,
+          "rank": 446,
           "name": "Hormel Foods Corp",
           "ticker": "HRL",
           "weight": "0.02",
           "sector": "Consumer Staples",
           "industry": "Food Products"
-        },
-        {
-          "rank": 467,
-          "name": "Brown-Forman Corp",
-          "ticker": "BF.B",
-          "weight": "0.02",
-          "sector": "Consumer Staples",
-          "industry": "Beverages"
         },
         {
           "rank": 469,
@@ -3178,7 +3170,15 @@
           "industry": "Food Products"
         },
         {
-          "rank": 473,
+          "rank": 470,
+          "name": "Brown-Forman Corp",
+          "ticker": "BF.B",
+          "weight": "0.02",
+          "sector": "Consumer Staples",
+          "industry": "Beverages"
+        },
+        {
+          "rank": 471,
           "name": "Clorox Co/The",
           "ticker": "CLX",
           "weight": "0.02",
@@ -3186,7 +3186,7 @@
           "industry": "Household Products"
         },
         {
-          "rank": 500,
+          "rank": 501,
           "name": "Molson Coors Beverage Co",
           "ticker": "TAP",
           "weight": "0.01",
@@ -3197,7 +3197,7 @@
     },
     {
       "sector": "Energy",
-      "total_percent": "3.09",
+      "total_percent": "3.11",
       "companies": [
         {
           "rank": 18,
@@ -3216,7 +3216,7 @@
           "industry": "Oil, Gas & Consumable Fuels"
         },
         {
-          "rank": 89,
+          "rank": 87,
           "name": "ConocoPhillips",
           "ticker": "COP",
           "weight": "0.20",
@@ -3224,15 +3224,15 @@
           "industry": "Oil, Gas & Consumable Fuels"
         },
         {
-          "rank": 133,
+          "rank": 129,
           "name": "Williams Cos Inc/The",
           "ticker": "WMB",
-          "weight": "0.13",
+          "weight": "0.14",
           "sector": "Energy",
           "industry": "Oil, Gas & Consumable Fuels"
         },
         {
-          "rank": 135,
+          "rank": 133,
           "name": "Valero Energy Corp",
           "ticker": "VLO",
           "weight": "0.13",
@@ -3240,7 +3240,7 @@
           "industry": "Oil, Gas & Consumable Fuels"
         },
         {
-          "rank": 141,
+          "rank": 136,
           "name": "Marathon Petroleum Corp",
           "ticker": "MPC",
           "weight": "0.13",
@@ -3248,7 +3248,7 @@
           "industry": "Oil, Gas & Consumable Fuels"
         },
         {
-          "rank": 151,
+          "rank": 149,
           "name": "Phillips 66",
           "ticker": "PSX",
           "weight": "0.12",
@@ -3256,7 +3256,7 @@
           "industry": "Oil, Gas & Consumable Fuels"
         },
         {
-          "rank": 164,
+          "rank": 165,
           "name": "EOG Resources Inc",
           "ticker": "EOG",
           "weight": "0.11",
@@ -3264,10 +3264,10 @@
           "industry": "Oil, Gas & Consumable Fuels"
         },
         {
-          "rank": 171,
+          "rank": 169,
           "name": "Kinder Morgan Inc",
           "ticker": "KMI",
-          "weight": "0.10",
+          "weight": "0.11",
           "sector": "Energy",
           "industry": "Oil, Gas & Consumable Fuels"
         },
@@ -3280,7 +3280,7 @@
           "industry": "Energy Equipment & Services"
         },
         {
-          "rank": 205,
+          "rank": 206,
           "name": "Targa Resources Corp",
           "ticker": "TRGP",
           "weight": "0.09",
@@ -3288,7 +3288,7 @@
           "industry": "Oil, Gas & Consumable Fuels"
         },
         {
-          "rank": 210,
+          "rank": 212,
           "name": "ONEOK Inc",
           "ticker": "OKE",
           "weight": "0.08",
@@ -3312,7 +3312,7 @@
           "industry": "Oil, Gas & Consumable Fuels"
         },
         {
-          "rank": 222,
+          "rank": 224,
           "name": "Diamondback Energy Inc",
           "ticker": "FANG",
           "weight": "0.08",
@@ -3328,7 +3328,7 @@
           "industry": "Oil, Gas & Consumable Fuels"
         },
         {
-          "rank": 307,
+          "rank": 305,
           "name": "EQT Corp",
           "ticker": "EQT",
           "weight": "0.05",
@@ -3336,7 +3336,7 @@
           "industry": "Oil, Gas & Consumable Fuels"
         },
         {
-          "rank": 320,
+          "rank": 315,
           "name": "Halliburton Co",
           "ticker": "HAL",
           "weight": "0.04",
@@ -3344,7 +3344,7 @@
           "industry": "Energy Equipment & Services"
         },
         {
-          "rank": 331,
+          "rank": 324,
           "name": "Texas Pacific Land Corp",
           "ticker": "TPL",
           "weight": "0.04",
@@ -3352,7 +3352,7 @@
           "industry": "Oil, Gas & Consumable Fuels"
         },
         {
-          "rank": 391,
+          "rank": 387,
           "name": "Expand Energy Corp",
           "ticker": "EXE",
           "weight": "0.03",
@@ -3371,10 +3371,10 @@
     },
     {
       "sector": "Utilities",
-      "total_percent": "2.11",
+      "total_percent": "2.10",
       "companies": [
         {
-          "rank": 66,
+          "rank": 65,
           "name": "NextEra Energy Inc",
           "ticker": "NEE",
           "weight": "0.27",
@@ -3390,7 +3390,7 @@
           "industry": "Electric Utilities"
         },
         {
-          "rank": 118,
+          "rank": 119,
           "name": "Duke Energy Corp",
           "ticker": "DUK",
           "weight": "0.14",
@@ -3398,7 +3398,7 @@
           "industry": "Electric Utilities"
         },
         {
-          "rank": 130,
+          "rank": 132,
           "name": "Constellation Energy Corp",
           "ticker": "CEG",
           "weight": "0.13",
@@ -3406,7 +3406,7 @@
           "industry": "Electric Utilities"
         },
         {
-          "rank": 165,
+          "rank": 166,
           "name": "American Electric Power Co Inc",
           "ticker": "AEP",
           "weight": "0.11",
@@ -3422,7 +3422,7 @@
           "industry": "Multi-Utilities"
         },
         {
-          "rank": 201,
+          "rank": 203,
           "name": "Sempra",
           "ticker": "SRE",
           "weight": "0.09",
@@ -3430,7 +3430,7 @@
           "industry": "Multi-Utilities"
         },
         {
-          "rank": 224,
+          "rank": 223,
           "name": "Entergy Corp",
           "ticker": "ETR",
           "weight": "0.08",
@@ -3446,7 +3446,7 @@
           "industry": "Independent Power and Renewable Electricity Producers"
         },
         {
-          "rank": 237,
+          "rank": 236,
           "name": "Xcel Energy Inc",
           "ticker": "XEL",
           "weight": "0.07",
@@ -3454,7 +3454,7 @@
           "industry": "Electric Utilities"
         },
         {
-          "rank": 241,
+          "rank": 242,
           "name": "Exelon Corp",
           "ticker": "EXC",
           "weight": "0.07",
@@ -3462,7 +3462,7 @@
           "industry": "Electric Utilities"
         },
         {
-          "rank": 265,
+          "rank": 264,
           "name": "Consolidated Edison Inc",
           "ticker": "ED",
           "weight": "0.06",
@@ -3470,7 +3470,7 @@
           "industry": "Multi-Utilities"
         },
         {
-          "rank": 268,
+          "rank": 266,
           "name": "Public Service Enterprise Group Inc",
           "ticker": "PEG",
           "weight": "0.06",
@@ -3478,7 +3478,7 @@
           "industry": "Multi-Utilities"
         },
         {
-          "rank": 274,
+          "rank": 273,
           "name": "PG&E Corp",
           "ticker": "PCG",
           "weight": "0.06",
@@ -3489,12 +3489,12 @@
           "rank": 277,
           "name": "WEC Energy Group Inc",
           "ticker": "WEC",
-          "weight": "0.06",
+          "weight": "0.05",
           "sector": "Utilities",
           "industry": "Multi-Utilities"
         },
         {
-          "rank": 305,
+          "rank": 304,
           "name": "Ameren Corp",
           "ticker": "AEE",
           "weight": "0.05",
@@ -3502,7 +3502,7 @@
           "industry": "Multi-Utilities"
         },
         {
-          "rank": 306,
+          "rank": 307,
           "name": "DTE Energy Co",
           "ticker": "DTE",
           "weight": "0.05",
@@ -3510,7 +3510,7 @@
           "industry": "Multi-Utilities"
         },
         {
-          "rank": 312,
+          "rank": 310,
           "name": "Atmos Energy Corp",
           "ticker": "ATO",
           "weight": "0.04",
@@ -3518,15 +3518,7 @@
           "industry": "Gas Utilities"
         },
         {
-          "rank": 319,
-          "name": "NRG Energy Inc",
-          "ticker": "NRG",
-          "weight": "0.04",
-          "sector": "Utilities",
-          "industry": "Electric Utilities"
-        },
-        {
-          "rank": 322,
+          "rank": 316,
           "name": "Edison International",
           "ticker": "EIX",
           "weight": "0.04",
@@ -3534,7 +3526,15 @@
           "industry": "Electric Utilities"
         },
         {
-          "rank": 326,
+          "rank": 318,
+          "name": "NRG Energy Inc",
+          "ticker": "NRG",
+          "weight": "0.04",
+          "sector": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "rank": 325,
           "name": "CenterPoint Energy Inc",
           "ticker": "CNP",
           "weight": "0.04",
@@ -3542,15 +3542,7 @@
           "industry": "Multi-Utilities"
         },
         {
-          "rank": 333,
-          "name": "Eversource Energy",
-          "ticker": "ES",
-          "weight": "0.04",
-          "sector": "Utilities",
-          "industry": "Electric Utilities"
-        },
-        {
-          "rank": 334,
+          "rank": 327,
           "name": "FirstEnergy Corp",
           "ticker": "FE",
           "weight": "0.04",
@@ -3558,7 +3550,15 @@
           "industry": "Electric Utilities"
         },
         {
-          "rank": 342,
+          "rank": 330,
+          "name": "Eversource Energy",
+          "ticker": "ES",
+          "weight": "0.04",
+          "sector": "Utilities",
+          "industry": "Electric Utilities"
+        },
+        {
+          "rank": 338,
           "name": "PPL Corp",
           "ticker": "PPL",
           "weight": "0.04",
@@ -3566,7 +3566,7 @@
           "industry": "Electric Utilities"
         },
         {
-          "rank": 348,
+          "rank": 349,
           "name": "American Water Works Co Inc",
           "ticker": "AWK",
           "weight": "0.04",
@@ -3574,7 +3574,7 @@
           "industry": "Water Utilities"
         },
         {
-          "rank": 369,
+          "rank": 370,
           "name": "CMS Energy Corp",
           "ticker": "CMS",
           "weight": "0.03",
@@ -3582,7 +3582,7 @@
           "industry": "Multi-Utilities"
         },
         {
-          "rank": 381,
+          "rank": 382,
           "name": "NiSource Inc",
           "ticker": "NI",
           "weight": "0.03",
@@ -3590,7 +3590,7 @@
           "industry": "Multi-Utilities"
         },
         {
-          "rank": 398,
+          "rank": 397,
           "name": "Evergy Inc",
           "ticker": "EVRG",
           "weight": "0.03",
@@ -3598,7 +3598,7 @@
           "industry": "Electric Utilities"
         },
         {
-          "rank": 400,
+          "rank": 401,
           "name": "Alliant Energy Corp",
           "ticker": "LNT",
           "weight": "0.03",
@@ -3614,7 +3614,7 @@
           "industry": "Electric Utilities"
         },
         {
-          "rank": 485,
+          "rank": 483,
           "name": "AES Corp/The",
           "ticker": "AES",
           "weight": "0.02",
@@ -3624,11 +3624,225 @@
       ]
     },
     {
-      "sector": "Real Estate",
-      "total_percent": "1.78",
+      "sector": "Materials",
+      "total_percent": "1.76",
       "companies": [
         {
-          "rank": 73,
+          "rank": 50,
+          "name": "Linde PLC",
+          "ticker": "LIN",
+          "weight": "0.35",
+          "sector": "Materials",
+          "industry": "Chemicals"
+        },
+        {
+          "rank": 114,
+          "name": "Newmont Corp",
+          "ticker": "NEM",
+          "weight": "0.15",
+          "sector": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "rank": 134,
+          "name": "Freeport-McMoRan Inc",
+          "ticker": "FCX",
+          "weight": "0.13",
+          "sector": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "rank": 148,
+          "name": "Sherwin-Williams Co/The",
+          "ticker": "SHW",
+          "weight": "0.12",
+          "sector": "Materials",
+          "industry": "Chemicals"
+        },
+        {
+          "rank": 159,
+          "name": "Ecolab Inc",
+          "ticker": "ECL",
+          "weight": "0.11",
+          "sector": "Materials",
+          "industry": "Chemicals"
+        },
+        {
+          "rank": 177,
+          "name": "CRH PLC",
+          "ticker": "CRH",
+          "weight": "0.10",
+          "sector": "Materials",
+          "industry": "Construction Materials"
+        },
+        {
+          "rank": 187,
+          "name": "Air Products and Chemicals Inc",
+          "ticker": "APD",
+          "weight": "0.10",
+          "sector": "Materials",
+          "industry": "Chemicals"
+        },
+        {
+          "rank": 214,
+          "name": "Corteva Inc",
+          "ticker": "CTVA",
+          "weight": "0.08",
+          "sector": "Materials",
+          "industry": "Chemicals"
+        },
+        {
+          "rank": 227,
+          "name": "Nucor Corp",
+          "ticker": "NUE",
+          "weight": "0.08",
+          "sector": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "rank": 275,
+          "name": "Vulcan Materials Co",
+          "ticker": "VMC",
+          "weight": "0.06",
+          "sector": "Materials",
+          "industry": "Construction Materials"
+        },
+        {
+          "rank": 294,
+          "name": "Martin Marietta Materials Inc",
+          "ticker": "MLM",
+          "weight": "0.05",
+          "sector": "Materials",
+          "industry": "Construction Materials"
+        },
+        {
+          "rank": 299,
+          "name": "Steel Dynamics Inc",
+          "ticker": "STLD",
+          "weight": "0.05",
+          "sector": "Materials",
+          "industry": "Metals & Mining"
+        },
+        {
+          "rank": 351,
+          "name": "PPG Industries Inc",
+          "ticker": "PPG",
+          "weight": "0.04",
+          "sector": "Materials",
+          "industry": "Chemicals"
+        },
+        {
+          "rank": 379,
+          "name": "Smurfit WestRock PLC",
+          "ticker": "SW",
+          "weight": "0.03",
+          "sector": "Materials",
+          "industry": "Containers & Packaging"
+        },
+        {
+          "rank": 384,
+          "name": "Dow Inc",
+          "ticker": "DOW",
+          "weight": "0.03",
+          "sector": "Materials",
+          "industry": "Chemicals"
+        },
+        {
+          "rank": 396,
+          "name": "Packaging Corp of America",
+          "ticker": "PKG",
+          "weight": "0.03",
+          "sector": "Materials",
+          "industry": "Containers & Packaging"
+        },
+        {
+          "rank": 400,
+          "name": "Amcor PLC",
+          "ticker": "AMCR",
+          "weight": "0.03",
+          "sector": "Materials",
+          "industry": "Containers & Packaging"
+        },
+        {
+          "rank": 404,
+          "name": "International Paper Co",
+          "ticker": "IP",
+          "weight": "0.03",
+          "sector": "Materials",
+          "industry": "Containers & Packaging"
+        },
+        {
+          "rank": 406,
+          "name": "International Flavors & Fragrances Inc",
+          "ticker": "IFF",
+          "weight": "0.03",
+          "sector": "Materials",
+          "industry": "Chemicals"
+        },
+        {
+          "rank": 408,
+          "name": "LyondellBasell Industries NV",
+          "ticker": "LYB",
+          "weight": "0.03",
+          "sector": "Materials",
+          "industry": "Chemicals"
+        },
+        {
+          "rank": 411,
+          "name": "CF Industries Holdings Inc",
+          "ticker": "CF",
+          "weight": "0.03",
+          "sector": "Materials",
+          "industry": "Chemicals"
+        },
+        {
+          "rank": 412,
+          "name": "DuPont de Nemours Inc",
+          "ticker": "DD",
+          "weight": "0.03",
+          "sector": "Materials",
+          "industry": "Chemicals"
+        },
+        {
+          "rank": 425,
+          "name": "Ball Corp",
+          "ticker": "BALL",
+          "weight": "0.02",
+          "sector": "Materials",
+          "industry": "Containers & Packaging"
+        },
+        {
+          "rank": 435,
+          "name": "Albemarle Corp",
+          "ticker": "ALB",
+          "weight": "0.02",
+          "sector": "Materials",
+          "industry": "Chemicals"
+        },
+        {
+          "rank": 466,
+          "name": "Avery Dennison Corp",
+          "ticker": "AVY",
+          "weight": "0.02",
+          "sector": "Materials",
+          "industry": "Containers & Packaging"
+        },
+        {
+          "rank": 500,
+          "name": "Mosaic Co/The",
+          "ticker": "MOS",
+          "weight": "0.01",
+          "sector": "Materials",
+          "industry": "Chemicals"
+        }
+      ]
+    },
+    {
+      "sector": "Real Estate",
+      "total_percent": "1.76",
+      "companies": [
+        {
+          "rank": 71,
           "name": "Welltower Inc",
           "ticker": "WELL",
           "weight": "0.24",
@@ -3636,7 +3850,7 @@
           "industry": "Diversified REITs"
         },
         {
-          "rank": 93,
+          "rank": 92,
           "name": "Prologis Inc",
           "ticker": "PLD",
           "weight": "0.19",
@@ -3644,7 +3858,7 @@
           "industry": "Diversified REITs"
         },
         {
-          "rank": 113,
+          "rank": 116,
           "name": "Equinix Inc",
           "ticker": "EQIX",
           "weight": "0.15",
@@ -3652,15 +3866,15 @@
           "industry": "Specialized REITs"
         },
         {
-          "rank": 153,
+          "rank": 152,
           "name": "American Tower Corp",
           "ticker": "AMT",
-          "weight": "0.12",
+          "weight": "0.11",
           "sector": "Real Estate",
           "industry": "Specialized REITs"
         },
         {
-          "rank": 172,
+          "rank": 170,
           "name": "Simon Property Group Inc",
           "ticker": "SPG",
           "weight": "0.10",
@@ -3668,15 +3882,15 @@
           "industry": "Diversified REITs"
         },
         {
-          "rank": 191,
+          "rank": 195,
           "name": "Digital Realty Trust Inc",
           "ticker": "DLR",
-          "weight": "0.10",
+          "weight": "0.09",
           "sector": "Real Estate",
           "industry": "Specialized REITs"
         },
         {
-          "rank": 207,
+          "rank": 208,
           "name": "Realty Income Corp",
           "ticker": "O",
           "weight": "0.09",
@@ -3692,7 +3906,7 @@
           "industry": "Specialized REITs"
         },
         {
-          "rank": 252,
+          "rank": 249,
           "name": "Ventas Inc",
           "ticker": "VTR",
           "weight": "0.07",
@@ -3700,7 +3914,7 @@
           "industry": "Diversified REITs"
         },
         {
-          "rank": 266,
+          "rank": 271,
           "name": "CBRE Group Inc",
           "ticker": "CBRE",
           "weight": "0.06",
@@ -3708,7 +3922,7 @@
           "industry": "Real Estate Management & Development"
         },
         {
-          "rank": 282,
+          "rank": 279,
           "name": "Iron Mountain Inc",
           "ticker": "IRM",
           "weight": "0.05",
@@ -3716,7 +3930,7 @@
           "industry": "Specialized REITs"
         },
         {
-          "rank": 291,
+          "rank": 293,
           "name": "Crown Castle Inc",
           "ticker": "CCI",
           "weight": "0.05",
@@ -3724,7 +3938,7 @@
           "industry": "Specialized REITs"
         },
         {
-          "rank": 310,
+          "rank": 309,
           "name": "Extra Space Storage Inc",
           "ticker": "EXR",
           "weight": "0.04",
@@ -3732,7 +3946,7 @@
           "industry": "Specialized REITs"
         },
         {
-          "rank": 323,
+          "rank": 319,
           "name": "VICI Properties Inc",
           "ticker": "VICI",
           "weight": "0.04",
@@ -3740,7 +3954,7 @@
           "industry": "Specialized REITs"
         },
         {
-          "rank": 336,
+          "rank": 337,
           "name": "AvalonBay Communities Inc",
           "ticker": "AVB",
           "weight": "0.04",
@@ -3748,7 +3962,7 @@
           "industry": "Residential REITs"
         },
         {
-          "rank": 347,
+          "rank": 348,
           "name": "Equity Residential",
           "ticker": "EQR",
           "weight": "0.04",
@@ -3764,7 +3978,7 @@
           "industry": "Specialized REITs"
         },
         {
-          "rank": 406,
+          "rank": 405,
           "name": "Essex Property Trust Inc",
           "ticker": "ESS",
           "weight": "0.03",
@@ -3772,7 +3986,7 @@
           "industry": "Residential REITs"
         },
         {
-          "rank": 416,
+          "rank": 413,
           "name": "Invitation Homes Inc",
           "ticker": "INVH",
           "weight": "0.03",
@@ -3780,15 +3994,7 @@
           "industry": "Residential REITs"
         },
         {
-          "rank": 422,
-          "name": "Kimco Realty Corp",
-          "ticker": "KIM",
-          "weight": "0.02",
-          "sector": "Real Estate",
-          "industry": "Diversified REITs"
-        },
-        {
-          "rank": 423,
+          "rank": 420,
           "name": "Weyerhaeuser Co",
           "ticker": "WY",
           "weight": "0.02",
@@ -3796,15 +4002,15 @@
           "industry": "Specialized REITs"
         },
         {
-          "rank": 429,
-          "name": "Mid-America Apartment Communities Inc",
-          "ticker": "MAA",
+          "rank": 421,
+          "name": "Kimco Realty Corp",
+          "ticker": "KIM",
           "weight": "0.02",
           "sector": "Real Estate",
-          "industry": "Residential REITs"
+          "industry": "Diversified REITs"
         },
         {
-          "rank": 430,
+          "rank": 427,
           "name": "Host Hotels & Resorts Inc",
           "ticker": "HST",
           "weight": "0.02",
@@ -3812,7 +4018,15 @@
           "industry": "Diversified REITs"
         },
         {
-          "rank": 435,
+          "rank": 433,
+          "name": "Mid-America Apartment Communities Inc",
+          "ticker": "MAA",
+          "weight": "0.02",
+          "sector": "Real Estate",
+          "industry": "Residential REITs"
+        },
+        {
+          "rank": 436,
           "name": "Healthpeak Properties Inc",
           "ticker": "DOC",
           "weight": "0.02",
@@ -3836,7 +4050,7 @@
           "industry": "Residential REITs"
         },
         {
-          "rank": 470,
+          "rank": 472,
           "name": "CoStar Group Inc",
           "ticker": "CSGP",
           "weight": "0.02",
@@ -3852,7 +4066,7 @@
           "industry": "Residential REITs"
         },
         {
-          "rank": 483,
+          "rank": 482,
           "name": "BXP Inc",
           "ticker": "BXP",
           "weight": "0.02",
@@ -3860,7 +4074,7 @@
           "industry": "Diversified REITs"
         },
         {
-          "rank": 486,
+          "rank": 484,
           "name": "Federal Realty Investment Trust",
           "ticker": "FRT",
           "weight": "0.02",
@@ -3868,226 +4082,12 @@
           "industry": "Diversified REITs"
         },
         {
-          "rank": 497,
+          "rank": 498,
           "name": "Alexandria Real Estate Equities Inc",
           "ticker": "ARE",
           "weight": "0.01",
           "sector": "Real Estate",
           "industry": "Diversified REITs"
-        }
-      ]
-    },
-    {
-      "sector": "Materials",
-      "total_percent": "1.76",
-      "companies": [
-        {
-          "rank": 50,
-          "name": "Linde PLC",
-          "ticker": "LIN",
-          "weight": "0.35",
-          "sector": "Materials",
-          "industry": "Chemicals"
-        },
-        {
-          "rank": 117,
-          "name": "Newmont Corp",
-          "ticker": "NEM",
-          "weight": "0.15",
-          "sector": "Materials",
-          "industry": "Metals & Mining"
-        },
-        {
-          "rank": 143,
-          "name": "Freeport-McMoRan Inc",
-          "ticker": "FCX",
-          "weight": "0.13",
-          "sector": "Materials",
-          "industry": "Metals & Mining"
-        },
-        {
-          "rank": 149,
-          "name": "Sherwin-Williams Co/The",
-          "ticker": "SHW",
-          "weight": "0.12",
-          "sector": "Materials",
-          "industry": "Chemicals"
-        },
-        {
-          "rank": 160,
-          "name": "Ecolab Inc",
-          "ticker": "ECL",
-          "weight": "0.11",
-          "sector": "Materials",
-          "industry": "Chemicals"
-        },
-        {
-          "rank": 182,
-          "name": "CRH PLC",
-          "ticker": "CRH",
-          "weight": "0.10",
-          "sector": "Materials",
-          "industry": "Construction Materials"
-        },
-        {
-          "rank": 187,
-          "name": "Air Products and Chemicals Inc",
-          "ticker": "APD",
-          "weight": "0.10",
-          "sector": "Materials",
-          "industry": "Chemicals"
-        },
-        {
-          "rank": 212,
-          "name": "Corteva Inc",
-          "ticker": "CTVA",
-          "weight": "0.08",
-          "sector": "Materials",
-          "industry": "Chemicals"
-        },
-        {
-          "rank": 228,
-          "name": "Nucor Corp",
-          "ticker": "NUE",
-          "weight": "0.08",
-          "sector": "Materials",
-          "industry": "Metals & Mining"
-        },
-        {
-          "rank": 275,
-          "name": "Vulcan Materials Co",
-          "ticker": "VMC",
-          "weight": "0.06",
-          "sector": "Materials",
-          "industry": "Construction Materials"
-        },
-        {
-          "rank": 293,
-          "name": "Martin Marietta Materials Inc",
-          "ticker": "MLM",
-          "weight": "0.05",
-          "sector": "Materials",
-          "industry": "Construction Materials"
-        },
-        {
-          "rank": 296,
-          "name": "Steel Dynamics Inc",
-          "ticker": "STLD",
-          "weight": "0.05",
-          "sector": "Materials",
-          "industry": "Metals & Mining"
-        },
-        {
-          "rank": 353,
-          "name": "PPG Industries Inc",
-          "ticker": "PPG",
-          "weight": "0.04",
-          "sector": "Materials",
-          "industry": "Chemicals"
-        },
-        {
-          "rank": 380,
-          "name": "Smurfit WestRock PLC",
-          "ticker": "SW",
-          "weight": "0.03",
-          "sector": "Materials",
-          "industry": "Containers & Packaging"
-        },
-        {
-          "rank": 385,
-          "name": "Dow Inc",
-          "ticker": "DOW",
-          "weight": "0.03",
-          "sector": "Materials",
-          "industry": "Chemicals"
-        },
-        {
-          "rank": 396,
-          "name": "Packaging Corp of America",
-          "ticker": "PKG",
-          "weight": "0.03",
-          "sector": "Materials",
-          "industry": "Containers & Packaging"
-        },
-        {
-          "rank": 401,
-          "name": "Amcor PLC",
-          "ticker": "AMCR",
-          "weight": "0.03",
-          "sector": "Materials",
-          "industry": "Containers & Packaging"
-        },
-        {
-          "rank": 402,
-          "name": "International Paper Co",
-          "ticker": "IP",
-          "weight": "0.03",
-          "sector": "Materials",
-          "industry": "Containers & Packaging"
-        },
-        {
-          "rank": 405,
-          "name": "International Flavors & Fragrances Inc",
-          "ticker": "IFF",
-          "weight": "0.03",
-          "sector": "Materials",
-          "industry": "Chemicals"
-        },
-        {
-          "rank": 409,
-          "name": "LyondellBasell Industries NV",
-          "ticker": "LYB",
-          "weight": "0.03",
-          "sector": "Materials",
-          "industry": "Chemicals"
-        },
-        {
-          "rank": 410,
-          "name": "CF Industries Holdings Inc",
-          "ticker": "CF",
-          "weight": "0.03",
-          "sector": "Materials",
-          "industry": "Chemicals"
-        },
-        {
-          "rank": 414,
-          "name": "DuPont de Nemours Inc",
-          "ticker": "DD",
-          "weight": "0.03",
-          "sector": "Materials",
-          "industry": "Chemicals"
-        },
-        {
-          "rank": 425,
-          "name": "Ball Corp",
-          "ticker": "BALL",
-          "weight": "0.02",
-          "sector": "Materials",
-          "industry": "Containers & Packaging"
-        },
-        {
-          "rank": 439,
-          "name": "Albemarle Corp",
-          "ticker": "ALB",
-          "weight": "0.02",
-          "sector": "Materials",
-          "industry": "Chemicals"
-        },
-        {
-          "rank": 465,
-          "name": "Avery Dennison Corp",
-          "ticker": "AVY",
-          "weight": "0.02",
-          "sector": "Materials",
-          "industry": "Containers & Packaging"
-        },
-        {
-          "rank": 501,
-          "name": "Mosaic Co/The",
-          "ticker": "MOS",
-          "weight": "0.01",
-          "sector": "Materials",
-          "industry": "Chemicals"
         }
       ]
     }
