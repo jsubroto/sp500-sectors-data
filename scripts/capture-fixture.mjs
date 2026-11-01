@@ -1,42 +1,57 @@
 import { mkdir, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 
-import { extractNextData } from "./fetch-us500.mjs";
+import {
+  CONSTITUENTS_URL,
+  HOLDINGS_URL,
+  csvRow,
+  get,
+  wikiRowTicker,
+  wikiRows,
+} from "./fetch-us500.mjs";
 
-const URL = "https://us500.com/sp500-companies-by-sector";
-const SECTORS = 2;
-const COMPANIES_PER_SECTOR = 2;
+const HOLDINGS_TICKERS = new Set(["NVDA", "AAPL", "BRK B", "JPM", "GOOGL"]);
+// Includes rows Wikipedia formats differently: a spaced template name (CBOE),
+// a single leading pipe (RDDT) and several cells on one line (EME).
+const CONSTITUENT_TICKERS = new Set(["NVDA", "AAPL", "BRK.B", "JPM", "GOOGL", "CBOE", "RDDT", "EME"]);
 
 const DIR = join(import.meta.dirname, "__fixtures__");
-const OUT = join(DIR, "next-data.json");
 
-const res = await fetch(URL);
-if (!res.ok) throw new Error(`HTTP ${res.status}`);
+const [holdingsRes, constituentsRes] = await Promise.all([
+  get(HOLDINGS_URL),
+  get(CONSTITUENTS_URL),
+]);
 
-const { info, companies } = extractNextData(await res.text()).props.pageProps
-  .sectors;
-const labels = info.labelsData.slice(0, SECTORS);
+const lines = (await holdingsRes.text()).split(/\r?\n/);
+const headerIdx = lines.findIndex((l) => l.startsWith("Ticker,"));
+const header = lines[headerIdx].split(",");
+const type = header.indexOf("Type");
+const weight = header.indexOf("Market Weight");
+const holdings = [
+  ...lines.slice(0, headerIdx + 1),
+  ...lines.slice(headerIdx + 1).filter((l) => {
+    const r = csvRow(l);
+    return (
+      HOLDINGS_TICKERS.has(r[0]) ||
+      (r.length === header.length &&
+        (r[type] !== "EQUITY" || !Number.isFinite(Number(r[weight]))))
+    );
+  }),
+].join("\n");
 
-const reduced = {
-  props: {
-    pageProps: {
-      sectors: {
-        info: {
-          labelsData: labels,
-          holdData: info.holdData.slice(0, SECTORS),
-          colorArray: info.colorArray.slice(0, SECTORS),
-        },
-        companies: labels.flatMap((sector) =>
-          companies
-            .filter((c) => c.sector === sector)
-            .slice(0, COMPANIES_PER_SECTOR),
-        ),
-      },
-    },
-  },
-};
+const [preamble, columns, ...rows] = wikiRows(
+  (await constituentsRes.json()).parse.wikitext,
+);
+const constituents = [
+  preamble,
+  columns,
+  ...rows.filter((row) => CONSTITUENT_TICKERS.has(wikiRowTicker(row))).map((row) => row.replace(/\n\|\}[\s\S]*$/, "")),
+].join("\n|-\n") + "\n|}\n";
 
 await mkdir(DIR, { recursive: true });
-await writeFile(OUT, JSON.stringify(reduced, null, 2));
+await Promise.all([
+  writeFile(join(DIR, "holdings.csv"), holdings),
+  writeFile(join(DIR, "constituents.wikitext"), constituents),
+]);
 
-console.log(`Wrote ${OUT}`);
+console.log(`Wrote ${DIR}/holdings.csv and ${DIR}/constituents.wikitext`);
